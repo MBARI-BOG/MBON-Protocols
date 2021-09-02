@@ -1,3 +1,4 @@
+# Environmental DNA (eDNA) COI metabarcoding Illumina MiSeq NGS PCR Protocol V1
 ##### Collin Closek1, Anni Djurhuus2, Katie Pitz3, Ryan Kelly4, Reiko Michisaki3, Kristine Walz3, Hilary Starks1, Francisco Chavez3, Alexandria Boehm1, Mya Breitbart2
 ##### 1Center for Ocean Solutions, Stanford University, CA; 2University of South Florida, College of Marine Science, St Petersburg, FL; 3Monterey Bay Aquarium Research Institute, Moss Landing, CA; 4University of Washington, Seattle, WA
 

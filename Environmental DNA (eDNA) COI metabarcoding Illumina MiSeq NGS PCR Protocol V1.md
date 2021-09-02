@@ -4,7 +4,7 @@
 
 ## ABSTRACT
 This protocol is aimed at amplifying the cytochrome c oxidase subunit I (COI) mitochondrial gene in eukaryotes. The primers (forward: mlCOIintF, reverse: HCO2198) utilized in this protocol are based on the primers utilized in Leray et al. 2013 (forward) and Folmer et al. 1994 (reverse).
- 
+
 Amplicons generated using this protocol can then be sequenced using the Illumina platform.
  
 Primers used:
@@ -14,6 +14,11 @@ Fluidigm CS2+HCO2198
 Secondary COI PCR primers
 PE1-BC-CS1
 PE2-BC-CS2 
+
+[Leray M, Yang JY, Meyer CP, Mills SC, Agudelo N, Ranwez V, Boehm JT, Machida RJ. (2013) A new versatile primer set targeting a short fragment of the mitochondrial COI region for metabarcoding metazoan diversity: application for characterizing coral reef fish gut contents. Frontiers in zoology, 10(1),1-4.](https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-10-34)
+
+[Folmer O, Black M, Hoeh W, Lutz R, Vrijenhoek R (1994) DNA primers for amplification of mitochondrial cytochrome c oxidase subunit I from diverse metazoan invertebrates. Molecular Marine Biology and Biotechnology, 3, 294–299.](https://www.mbari.org/wp-content/uploads/2016/01/Folmer_94MMBB.pdf)
+
 
 ## PCR
 1. PCR reactions for COI were run with Fluidigm two-step amplification protocol for each sample.

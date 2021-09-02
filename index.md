@@ -1,6 +1,3 @@
-# Here are all the protocols that we use in the MBON lab
-1. [Environmental DNA (eDNA) COI metabarcoding Illumina MiSeq NGS PCR Protocol V.1](https://github.com/MBARI-BOG/MBON-Protocols/blob/1a35de277c6b1555bc40679848a80907c710e341/Environmental%20DNA%20(eDNA)%20COI%20metabarcoding%20Illumina%20MiSeq%20NGS%20PCR%20Protocol%20V1.md)
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MBARI-BOG/MBON-Protocols/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

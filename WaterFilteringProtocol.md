@@ -68,4 +68,4 @@ Cleaned forceps must be dried with a Kimwipe before contacting a filter
 ### J. Cleanup:
 Clean used tubing and Swinnex cartridges with a 10% bleach solution at 3 MilliQ water rinses; let air dry in a plastic tray covered in paper towels or Kimwipes; if necessary, clean the outside of the MasterFlex tubing with a disinfectant wipe.
 
-[return to home](index.mbd)
+[return to home](index.md)

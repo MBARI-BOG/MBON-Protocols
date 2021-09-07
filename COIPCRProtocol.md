@@ -106,3 +106,4 @@ Hold at 25 °C
 - `FL2-CS2rc(index)   A+GAC+CA+AGTCTCTGCTACCGTA`
 20. Sequencing is performed at the Research Technology Support Facility (RTSF) Genomics Core at Michigan State University (MSU).
 
+[back to home](index.md)

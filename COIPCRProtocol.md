@@ -36,7 +36,6 @@ PE2-BC-CS2
 3. PCR reactions were run in 96-well plates with a NTC run in triplicate for each plate.
 4. Primary COI cycling parameters:
 
-
 ```
 95 °C for 10 minutes
 
@@ -54,6 +53,7 @@ A final elongation step of 72 °C for 10 minutes
 
 Hold at 4 °C
 ```
+
 
 5. COI Primary PCR primers (primers listed in 5’ to 3’ direction)
 - Fluidigm CS1+mlCOIinfF (forward):

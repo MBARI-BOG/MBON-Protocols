@@ -12,12 +12,12 @@ Prepare the following 50mL falcon tubes (one set per sampling day):
 Remove cotton from the ends of the sterile serological pipettes with clean forceps
 Assemble Swinnex filter cartridges and load them with a 25 mm Millipore filter (0.22uM pore diameter). This assumes we are using a peristaltic pump for water filtration and that we use 25 mm sized filters. A vacuum pump can also be used as well as other filter sizes (e.g. 47 mm). A key element of all of the filtration/handling is to avoid contamination from biological/DNA sources outside of the sample (e.g. bacteria, human, net tow material) or from a previous sample that was filtered on the same rig. 
 
-B. Supplies: (see Excel spreadsheet)
+B. Supplies: [Google spreadsheet of supplies](https://docs.google.com/spreadsheets/d/1NQDkDLFvft60iHZWLgbGDZV4LqUI6NhJ/edit#gid=1520828219)
 
 C. Sampling Notebook and Storage Setup:
 In field notebook, note the station, above labeling scheme, date, max depth, time of CTD cast
 Create a list of anticipated samples by listing Depths(m), Niskin #, Cast #, Notes (to be filled in as collection and filtering occurs)
-Label cryovials (apply horizontally on standing cryovial), labelling scheme is CRUISEc##_BB_eDNA (where ## is cast number and BB is niskin bottle number, i.e. CN18Sc01_12_eDNA is cast 1, bottle 12). This labeling is specific to MBARI cruises and should be adapted for each campaign. It is key to be able to have the correct information (metadata) to be able link the sample to location, date/time, water filtered (and associated protocol) and environmental information from CTD (or other sources).
+Label cryovials (apply horizontally on standing cryovial), labelling scheme is CRUISEc##_BB_eDNA (where ## is cast number and BB is niskin bottle number, i.e. CN18Sc01_12_eDNA is cast 1, bottle 12). *This labeling is specific to MBARI cruises and should be adapted for each campaign. It is key to be able to have the correct information (metadata) to be able link the sample to location, date/time, water filtered (and associated protocol) and environmental information from CTD (or other sources).*
 
 D. Sampling Area Staging:
 Spray 10% bleach (or RNase Away) onto benchtop where filtering work will be conducted

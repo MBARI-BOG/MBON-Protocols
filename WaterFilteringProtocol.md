@@ -6,9 +6,9 @@ Authors: Walz, K., Sparks, H., Closek, C. and Nye, C.
 ## A. Prior to collection: 
 - This protocol is for water samples collected from Niskin bottles on a CTD rosette (although it can be applied to other water sample collection methods) and assumes that sterile techniques are practiced for all disposable items
 - Prepare the following 50mL falcon tubes (one set per sampling day):
- - 50mL of RNase Away (x1)
- - 50mL of MilliQ / DI water (x2)
- - 50mL of 70% ethanol (x1)
+ 1. 50mL of RNase Away (x1)
+ 2. 50mL of MilliQ / DI water (x2)
+ 3. 50mL of 70% ethanol (x1)
 - Remove cotton from the ends of the sterile serological pipettes with clean forceps
 - Assemble Swinnex filter cartridges and load them with a 25 mm Millipore filter (0.22uM pore diameter). This assumes we are using a peristaltic pump for water filtration and that we use 25 mm sized filters. A vacuum pump can also be used as well as other filter sizes (e.g. 47 mm). A key element of all of the filtration/handling is to avoid contamination from biological/DNA sources outside of the sample (e.g. bacteria, human, net tow material) or from a previous sample that was filtered on the same rig. 
 

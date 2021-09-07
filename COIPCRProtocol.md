@@ -35,7 +35,8 @@ PE2-BC-CS2
 
 3. PCR reactions were run in 96-well plates with a NTC run in triplicate for each plate.
 4. Primary COI cycling parameters:
-```markdown
+
+```
 95 °C for 10 minutes
 
 16 cycles of the following three steps:
@@ -73,7 +74,7 @@ Hold at 4 °C
 - 7 μl molecular-biology grade water 
 
 11. Secondary COI cycling parameters:
-```markdown
+```
 95 °C for 3 minutes 
 
 15 cycles of the following three steps:

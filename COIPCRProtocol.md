@@ -39,14 +39,14 @@ PE2-BC-CS2
 `95 °C for 10 minutes`
 
 `16 cycles of the following three steps:`
-`- 94 °C for 10 seconds`
-`- 62 °C for 30 seconds (this changes -1°C for each subsequent cycle)`
-`- 68 °C for 60 seconds` 
+- 94 °C for 10 seconds
+- 62 °C for 30 seconds (this changes -1°C for each subsequent cycle)
+- 68 °C for 60 seconds
 
 `Then 25 cycles of the following three steps:`
-`- 94 °C for 10 seconds`
-`- 46 °C for 30 seconds` 
-`- 68 °C for 60 seconds` 
+- 94 °C for 10 seconds
+- 46 °C for 30 seconds
+- 68 °C for 60 seconds
 
 `A final elongation step of 72 °C for 10 minutes`
 

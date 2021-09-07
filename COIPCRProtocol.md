@@ -36,6 +36,7 @@ PE2-BC-CS2
 3. PCR reactions were run in 96-well plates with a NTC run in triplicate for each plate.
 4. Primary COI cycling parameters:
 
+
 ```
 95 °C for 10 minutes
 
@@ -60,6 +61,7 @@ Hold at 4 °C
 - Fluidigm CS2+HCO2198 (reverse):
 `TACGGTAGCAGAGACTTGGTCT TAAACTTCAGGGTGACCAAAAAATCA`
 
+
 ## Primary PCR clean-up
 6. After primary PCR amplification of the marker region, the pooled PCR products were run through an agarose gel to confirm the presence of target bands and absense of non-specific amplification across environmental samples as well as the absence of amplification in no-template controls (NTCs).
 7. Primary PCR products were purified and size selected using the Agencourt AMPure XP bead system (Beckman Coulter, USA). 
@@ -74,6 +76,7 @@ Hold at 4 °C
 - 7 μl molecular-biology grade water 
 
 11. Secondary COI cycling parameters:
+
 ```
 95 °C for 3 minutes 
 
@@ -85,6 +88,7 @@ Hold at 4 °C
 Then a final elongation step of 72 °C for 3 minutes 
 
 Hold at 25 °C
+
 ```
 
 12. Secondary Fluidigm PCR primers (primers listed in 5’ to 3’ direction)

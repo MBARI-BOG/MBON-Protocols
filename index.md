@@ -2,7 +2,7 @@
 
 ## Here are all the protocols that we use in the MBON lab
 
-[Environmental DNA (eDNA) COI metabarcoding Illumina MiSeq NGS PCR Protocol V.1](COI-PCR-Protocol.md)
+1. [Environmental DNA (eDNA) COI metabarcoding Illumina MiSeq NGS PCR Protocol V.1](COI-PCR-Protocol.md)
 
 
 

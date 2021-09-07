@@ -1,7 +1,7 @@
 # Welcome to the MBARI-BOG Protocols manager!
 
 ### Water sampling
-1. [Water samplingn protocol](WaterFilteringProtocol.md)
+1. [Water sampling protocol](WaterFilteringProtocol.md)
 
 ### DNA Extractions
 

@@ -1,7 +1,7 @@
 # Welcome to the MBARI-BOG Protocols manager!
 
 
-<img src="https://user-images.githubusercontent.com/30352066/132426436-84807e43-e1ba-44ac-9cc7-92386559da6b.jpg" height="250" witdh="250">
+<img src="https://user-images.githubusercontent.com/30352066/132426436-84807e43-e1ba-44ac-9cc7-92386559da6b.jpg" height="500" witdh="700">
 
 ### Water sampling
 1. [Water sampling protocol](WaterFilteringProtocol.md)

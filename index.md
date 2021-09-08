@@ -12,3 +12,8 @@
 ### PCR
 
 1. [Environmental DNA (eDNA) COI metabarcoding Illumina MiSeq NGS PCR Protocol V.1](COIPCRProtocol.md)
+
+
+### Bioinformatics
+
+1. [Banzai Dada2 Pipeline](5.1_Banzai_Pipeline.md)

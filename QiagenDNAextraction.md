@@ -5,18 +5,18 @@
 ### This protocol is designed for high-throughput purification of total DNA from animal tissues, including rodent tails. 
 
 #### Important points before starting
-•	If using the DNeasy 96 Blood & Tissue Kit for the first time, read “Important Notes”
-•	(page 15).
-•	All centrifugation steps are carried out at room temperature (15–25°C).
-•	Optional: RNase Away may be used to digest RNA during the procedure. RNase A is not provided in the DNeasy 96 Blood & Tissue Kit (see “Copurification of RNA”, page 19).
+- If using the DNeasy 96 Blood & Tissue Kit for the first time, read “Important Notes”
+- (page 15).
+- All centrifugation steps are carried out at room temperature (15–25°C).
+- Optional: RNase Away may be used to digest RNA during the procedure. RNase A is not provided in the DNeasy 96 Blood & Tissue Kit (see “Copurification of RNA”, page 19).
 
 #### Things to do before starting
-•	Buffer AL should be premixed with ethanol before use. Add 90 ml ethanol (96–100%) to the bottle containing 86 ml Buffer AL or 260 ml ethanol to the bottle containing 247 ml Buffer AL and shake thoroughly. Mark the bottle to indicate that ethanol has been added. (Please note that, for purification of DNA from animal blood, Buffer AL must be used without ethanol. Buffer AL can be purchased separately if the same kit will be used for purification of DNA from animal blood.)
-•	Buffer AW1 and Buffer AW2 are supplied as concentrates. Before using for the first time, add the appropriate amount of ethanol (96–100%) as indicated on the bottle to obtain a working solution.
-•	Buffer ATL and Buffer AL may form precipitates upon storage. If necessary, warm to 56°C for 5 min until the precipitates have fully dissolved.
-•	Mix Buffer AW1 before use by inverting several times.
-•	Preheat an incubator to 56°C for use in step 4.
-•	If using frozen tissue, equilibrate the sample to room temperature. Avoid repeated thawing and freezing of samples since this will lead to reduced DNA size.
+- Buffer AL should be premixed with ethanol before use. Add 90 ml ethanol (96–100%) to the bottle containing 86 ml Buffer AL or 260 ml ethanol to the bottle containing 247 ml Buffer AL and shake thoroughly. Mark the bottle to indicate that ethanol has been added. (Please note that, for purification of DNA from animal blood, Buffer AL must be used without ethanol. Buffer AL can be purchased separately if the same kit will be used for purification of DNA from animal blood.)
+- Buffer AW1 and Buffer AW2 are supplied as concentrates. Before using for the first time, add the appropriate amount of ethanol (96–100%) as indicated on the bottle to obtain a working solution.
+- Buffer ATL and Buffer AL may form precipitates upon storage. If necessary, warm to 56°C for 5 min until the precipitates have fully dissolved.
+- Mix Buffer AW1 before use by inverting several times.
+- Preheat an incubator to 56°C for use in step 4.
+- If using frozen tissue, equilibrate the sample to room temperature. Avoid repeated thawing and freezing of samples since this will lead to reduced DNA size.
 
 #### Pre-procedure
 

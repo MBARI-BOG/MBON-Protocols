@@ -1,3 +1,5 @@
+[Back to home](index.md)
+
 # This protocol is a modified version of the Qiagen DNeasy 96-sample protocol: Purification of Total DNA from Animal Tissues
 
 ### This protocol is designed for high-throughput purification of total DNA from animal tissues, including rodent tails. 
@@ -195,3 +197,5 @@ Microtubes RS (provided).
 
 18. Transfer the remaining DNA into a second new skirted 96-well plate. This aliquot will be used for further lab work. Label plate (plate_name | lab DNA | date).
 ![image](https://user-images.githubusercontent.com/30352066/132424680-c8ff15dd-80ba-4403-b49d-efce62385b83.png)
+
+[Back to home](index.md)

@@ -1,9 +1,9 @@
 # Welcome to the MBARI-BOG Protocols manager!
 
 
-### Water sampling
 ![PXL_20210417_021551508](https://user-images.githubusercontent.com/30352066/132426436-84807e43-e1ba-44ac-9cc7-92386559da6b.jpg)
 
+### Water sampling
 1. [Water sampling protocol](WaterFilteringProtocol.md)
 2. [Water filtration setup and execution video](https://drive.google.com/file/d/1eoNPy9MQV1Xoq0zNTpJ10umO6fnTDRH7/view?usp=sharing)
 3. [Sample collection data sheet - example](https://docs.google.com/spreadsheets/d/1ARfhKgWiAFbPgfGKd8La85LwEA4_sW63-gn1NeHlIbA/edit#gid=0)

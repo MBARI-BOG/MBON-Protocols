@@ -123,9 +123,9 @@ Note: Be sure to label your plates along the plate skirt.
 
 16. To elute the DNA, add 100 μl Buffer AE to each sample, and seal the DNeasy 96 plates with new AirPore Tape Sheets (provided). Incubate for 1 min at room temperature (15–25°C). Centrifuge for 3 min at 6000 rpm.
 
-17. After DNA is eluted, transfer 50 μl into a new skirted 96-well plate (what we have been using for bead clean-ups) and seal with the heat sealer, and label plate for archiving (plate_name | archive DNA | date).
+17. After DNA is eluted, transfer 50 μl into a new skirted 96-well plate (what we have been using for bead clean-ups) and seal with the heat sealer, and label plate for archiving (plate_name  archive DNA  date).
 
-18. Transfer the remaining DNA into a second new skirted 96-well plate. This aliquot will be used for further lab work. Label plate (plate_name | lab DNA | date).
+18. Transfer the remaining DNA into a second new skirted 96-well plate. This aliquot will be used for further lab work. Label plate (plate_name  lab DNA  date).
 
 
 [Back to home](index.md)

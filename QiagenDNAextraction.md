@@ -47,7 +47,7 @@ Note: Be sure to label your plates along the plate skirt.
 
 	**IMPORTANT:** After preparation, the proteinase K–Buffer ATL working solution should be dispensed immediately into the collection microtubes containing the tail or tissue samples. Incubation of the working solution in the absence of substrate for >30 min reduces lysis efficiency and DNA purity.
 
-2.5 Bead beat the microtubes in the bead beater at 30hz for 2 minutes. 
+	2.5 Bead beat the microtubes in the bead beater at 30hz for 2 minutes. 
 
 	**Note:** Make sure that the bead beater is balanced.
 
@@ -75,85 +75,51 @@ Note: Be sure to label your plates along the plate skirt.
 
 6. Carefully remove the caps. Add 615 μl premixed Buffer AL–ethanol to each sample. For a 96-well plate, aliquot out 61.5 ml of Buffer AL-ethanol from the stock bottle to use for the 96 samples plus a 4-sample buffer for error.
 
-**Note:** Ensure that ethanol has been added to Buffer AL prior to use (see “Buffer
-AL”, page 18).
+	**Note:** Ensure that ethanol has been added to Buffer AL prior to use (see “Buffer AL”, page 18).
 
-**Note:** A white precipitate may form upon addition of Buffer AL–ethanol to the
-lysate. It is important to apply all of the lysate, including the precipitate, to the
-DNeasy 96 plate in step 9. This precipitate does not interfere with the DNeasy
-procedure or with any subsequent application.
+	**Note:** A white precipitate may form upon addition of Buffer AL–ethanol to the lysate. It is important to apply all of the lysate, including the precipitate, to the DNeasy 96 plate in step 9. This precipitate does not interfere with the DNeasy procedure or with any subsequent application.
 
-7. Ensure that the microtubes are properly sealed to avoid leakage during shaking.
-Place a clear cover over each rack of collection microtubes and shake the racks
-vigorously up and down for 15 s. To collect any solution from the caps, centrifuge
-the collection microtubes. Allow the centrifuge to reach 3000 rpm, and then stop
-the centrifuge.
+7. Ensure that the microtubes are properly sealed to avoid leakage during shaking. Place a clear cover over each rack of collection microtubes and shake the racks vigorously up and down for 15 s. To collect any solution from the caps, centrifuge the collection microtubes. Allow the centrifuge to reach 3000 rpm, and then stop the centrifuge.
 
-Do not prolong this step.
+	Do not prolong this step.
 
-**IMPORTANT:** The rack of collection microtubes must be vigorously shaken up and
-down with both hands to obtain a homogeneous lysate. Inverting the rack of
-collection microtubes is not sufficient for mixing. The genomic DNA will not be
-sheared by vigorous shaking. The lysate and Buffer AL–ethanol should be mixed
-immediately and thoroughly to yield a homogeneous solution.
+	**IMPORTANT:** The rack of collection microtubes must be vigorously shaken up and down with both hands to obtain a homogeneous lysate. Inverting the rack of collection microtubes is not sufficient for mixing. The genomic DNA will not be sheared by vigorous shaking. The lysate and Buffer AL–ethanol should be mixed immediately and thoroughly to yield a homogeneous solution.
 
-8. Place two DNeasy 96 plates on top of S-Blocks (provided). Mark the DNeasy 96
-plates for later sample identification.
+8. Place two DNeasy 96 plates on top of S-Blocks (provided). Mark the DNeasy 96 plates for later sample identification.
 
-9. Remove and discard the caps from the collection microtubes. Carefully transfer the
-lysate (transfer a maximum of 800 μl of lysate so the flow-through doesn’t come in contact with the bottom of the spin column) of each sample from step 7 to each well of the DNeasy
-96 plates.
+9. Remove and discard the caps from the collection microtubes. Carefully transfer the lysate (transfer a maximum of 800 μl of lysate so the flow-through doesn’t come in contact with the bottom of the spin column) of each sample from step 7 to each well of the DNeasy 96 plates.
 
-Take care not to wet the rims of the wells to avoid aerosols during centrifugation.
-Do not transfer more than 800 μl per well.
+	Take care not to wet the rims of the wells to avoid aerosols during centrifugation. Do not transfer more than 800 μl per well.
 
-**Note:** Lowering pipet tips to the bottoms of the wells may cause sample overflow
-and cross-contamination. Therefore, remove one set of caps at a time, and begin
-drawing up the samples as soon as the pipet tips contact the liquid. Repeat until
-all the samples have been transferred to the DNeasy 96 plates.
+	**Note:** Lowering pipet tips to the bottoms of the wells may cause sample overflow and cross-contamination. Therefore, remove one set of caps at a time, and begin drawing up the samples as soon as the pipet tips contact the liquid. Repeat until all the samples have been transferred to the DNeasy 96 plates.
 
-**Note:** If the volume of proteinase K–Buffer ATL working solution was increased in
-steps 3 or 5, transfer no more than 800 μl of the supernatant from step 7 to the
-DNeasy 96 plate. Larger amounts will exceed the volume capacity of the
-individual wells. Discard any remaining supernatant from step 7 as this will not
-contribute significantly to the total DNA yield.
+	**Note:** If the volume of proteinase K–Buffer ATL working solution was increased in steps 3 or 5, transfer no more than 800 μl of the supernatant from step 7 to the DNeasy 96 plate. Larger amounts will exceed the volume capacity of the individual wells. Discard any remaining supernatant from step 7 as this will not contribute significantly to the total DNA yield.
 
-10. Seal each DNeasy 96 plate with an AirPore Tape Sheet (provided). Centrifuge for
-10 min at 4700 rpm (our centrifuge cannot reach 6000 rpm).
+10. Seal each DNeasy 96 plate with an AirPore Tape Sheet (provided). Centrifuge for 10 min at 4700 rpm (our centrifuge cannot reach 6000 rpm).
 
-AirPore Tape prevents cross-contamination between samples during centrifugation.
-After centrifugation, check that all of the lysate has passed through the membrane
-in each well of the DNeasy 96 plates. If lysate remains in any of the wells,
-centrifuge for a further 10 min.
+	AirPore Tape prevents cross-contamination between samples during centrifugation. After centrifugation, check that all of the lysate has passed through the membrane in each well of the DNeasy 96 plates. If lysate remains in any of the wells, centrifuge for a further 10 min.
 
 11. Remove the tape. Carefully add 500 μl Buffer AW1 to each sample.
 
-**Note:** Ensure that ethanol has been added to Buffer AW1 prior to use.
-It is not necessary to increase the volume of Buffer AW1 if the volume of proteinase
-K–Buffer ATL working solution was increased in steps 3 or 5.
+	**Note:** Ensure that ethanol has been added to Buffer AW1 prior to use. It is not necessary to increase the volume of Buffer AW1 if the volume of proteinase K–Buffer ATL working solution was increased in steps 3 or 5.
 
-12. Seal each DNeasy 96 plate with a new AirPore Tape Sheet (provided). Centrifuge
-for 5 min at 4700 rpm.
+12. Seal each DNeasy 96 plate with a new AirPore Tape Sheet (provided). Centrifuge for 5 min at 4700 rpm.
 
 13. Remove the tape. Carefully add 500 μl Buffer AW2 to each sample.
 
-**Note:** Ensure that ethanol has been added to Buffer AW2 prior to use.
+	**Note:** Ensure that ethanol has been added to Buffer AW2 prior to use.
 
-It is not necessary to increase the volume of Buffer AW2 if the volume of proteinase
-K–Buffer ATL working solution was increased in steps 3 or 5.
+	It is not necessary to increase the volume of Buffer AW2 if the volume of proteinase K–Buffer ATL working solution was increased in steps 3 or 5.
 
 14. Centrifuge for 15 min at 4700 rpm.
 
-Do not seal the plate with AirPore Tape.
+	Do not seal the plate with AirPore Tape.
+	
+	The heat generated during centrifugation ensures evaporation of residual ethanol in the sample (from Buffer AW2) that might otherwise inhibit downstream reactions.
 
-The heat generated during centrifugation ensures evaporation of residual ethanol
-in the sample (from Buffer AW2) that might otherwise inhibit downstream
-reactions.
+	14.5 If there is still liquid in the spin-column or flow-through touching the bottom of the spin column, repeat the drying step. (Centrifuge for an additional 10 minutes at 4700 rpm.)
 
-14.5 If there is still liquid in the spin-column or flow-through touching the bottom of the spin column, repeat the drying step. (Centrifuge for an additional 10 minutes at 4700 rpm.)
-
-15. Place each DNeasy 96 plate in the correct orientation on a new rack of Elution
-Microtubes RS (provided).
+15. Place each DNeasy 96 plate in the correct orientation on a new rack of Elution Microtubes RS (provided).
 
 16. To elute the DNA, add 100 μl Buffer AE to each sample, and seal the DNeasy 96 plates with new AirPore Tape Sheets (provided). Incubate for 1 min at room temperature (15–25°C). Centrifuge for 3 min at 6000 rpm.
 

@@ -7,7 +7,7 @@
 4. [Quickstart guide to water filtering](https://docs.google.com/document/d/1I0tHQSAlRn8SCMbnIiE4vlt0cJjq353zSNL2_QV4-q0/edit)
 
 ### DNA Extractions
-1. 
+1. [Qiagen DNA extraction 96-samples - MBON modified](QiagenDNAextraction.md)
 
 ### PCR
 

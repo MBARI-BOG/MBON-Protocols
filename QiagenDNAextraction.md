@@ -196,6 +196,6 @@ Microtubes RS (provided).
 17. After DNA is eluted, transfer 50 μl into a new skirted 96-well plate (what we have been using for bead clean-ups) and seal with the heat sealer, and label plate for archiving (plate_name | archive DNA | date).
 
 18. Transfer the remaining DNA into a second new skirted 96-well plate. This aliquot will be used for further lab work. Label plate (plate_name | lab DNA | date).
-![image](https://user-images.githubusercontent.com/30352066/132424680-c8ff15dd-80ba-4403-b49d-efce62385b83.png)
+
 
 [Back to home](index.md)

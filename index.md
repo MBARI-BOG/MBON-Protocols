@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/30352066/132426436-84807e43-e1ba-44ac-9cc7-92386559da6b.jpg" height="500" witdh="700">
 
 ## [Water Sampling](Water_Sampling_page.md)
-[<img src="https://user-images.githubusercontent.com/30352066/132736658-76bed776-66fb-4854-acb6-3f3cfdd0e4e0.jpg" height="300" width="500">](Water_Sampling_page.md)
+[<img src="https://user-images.githubusercontent.com/30352066/132736658-76bed776-66fb-4854-acb6-3f3cfdd0e4e0.jpg" height="200" width="350">](Water_Sampling_page.md)
 
 
 ## DNA Extractions

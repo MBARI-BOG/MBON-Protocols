@@ -5,7 +5,8 @@
 Here you will be able to find resources used by the MBARI BOG group for our Environmental DNA (eDNA) work.
 
 ## [Water Sampling](Water_Sampling_page.md)
-[<img src="https://user-images.githubusercontent.com/30352066/132736658-76bed776-66fb-4854-acb6-3f3cfdd0e4e0.jpg" height="200" width="350">](Water_Sampling_page.md)
+[<img src="https://user-images.githubusercontent.com/30352066/132736658-76bed776-66fb-4854-acb6-3f3cfdd0e4e0.jpg" height="200" width="350"><img height="200" alt="Screen Shot 2021-09-09 at 1 57 31 PM" src="https://user-images.githubusercontent.com/30352066/132761630-d1ffb3bc-5398-453d-a04d-6695a89c1e23.png">
+](Water_Sampling_page.md)
 
 Click on the link or photo above to find resources on water sampling.
 

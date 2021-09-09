@@ -22,6 +22,6 @@ Here you will be able to find resources used by the MBARI BOG group for our Envi
 
 
 ## Bioinformatics
-<img width="527" src="https://user-images.githubusercontent.com/30352066/132757381-93a4d3f1-dfc8-4c0d-99ab-05d8af0a4981.png">
+<img width="527" height="280" src="https://user-images.githubusercontent.com/30352066/132757381-93a4d3f1-dfc8-4c0d-99ab-05d8af0a4981.png">
 
 1. [Banzai Dada2 Pipeline](5.1_Banzai_Pipeline.md)

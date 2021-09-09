@@ -11,7 +11,7 @@ Here you will find the protocols and resources that we use in the wet lab to pro
 ## PCR
 
 
-- [Environmental DNA (eDNA) COI metabarcoding Illumina MiSeq NGS PCR Protocol V.1](COIPCRProtocol.md)
+- [Environmental DNA (eDNA) COI metabarcoding Illumina MiSeq NGS PCR Protocol V.1](eDNA_COI_PCR_V1.md)
 - [Environmental DNA (eDNA) 18S metabarcoding Illumina MiSeq NGS PCR Protocol V.1](eDNA_18S_PCR_V1.md)
 
 [Back to home](index.md)

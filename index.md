@@ -10,7 +10,7 @@ Here you will be able to find resources used by the MBARI BOG group for our Envi
 Click on the link or photo above to find resources on water sampling.
 
 ## [MBARI Wet Lab Protocols](MBARI_wet_lab.md)
-[<img src="https://user-images.githubusercontent.com/30352066/132754771-d38e335e-1522-4cb0-9652-3fd84405349f.jpg" height="246">](MBARI_wet_lab.md) <img width="527" alt="Screen Shot 2021-09-09 at 1 12 30 PM" src="https://user-images.githubusercontent.com/30352066/132756023-64c6f7d0-4ef2-4ca1-be64-c20667d9fd03.png">
+[<img src="https://user-images.githubusercontent.com/30352066/132754771-d38e335e-1522-4cb0-9652-3fd84405349f.jpg" height="200">](MBARI_wet_lab.md) <img width="350" alt="Screen Shot 2021-09-09 at 1 12 30 PM" src="https://user-images.githubusercontent.com/30352066/132756023-64c6f7d0-4ef2-4ca1-be64-c20667d9fd03.png">
 
 Click on the link or photo above to find resources and protocos used by the MBARI BOG team in the lab.
 

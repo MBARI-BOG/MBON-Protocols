@@ -8,5 +8,5 @@
 ## PCR
 
 
-1. [Environmental DNA (eDNA) COI metabarcoding Illumina MiSeq NGS PCR Protocol V.1](COIPCRProtocol.md)
-2. [Environmental DNA (eDNA) 18S metabarcoding Illumina MiSeq NGS PCR Protocol V.1](eDNA_18S_PCR_V1.md)
+- [Environmental DNA (eDNA) COI metabarcoding Illumina MiSeq NGS PCR Protocol V.1](COIPCRProtocol.md)
+- [Environmental DNA (eDNA) 18S metabarcoding Illumina MiSeq NGS PCR Protocol V.1](eDNA_18S_PCR_V1.md)

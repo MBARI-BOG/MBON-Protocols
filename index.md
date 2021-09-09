@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/30352066/132426436-84807e43-e1ba-44ac-9cc7-92386559da6b.jpg" height="500" witdh="700">
+<img src="https://user-images.githubusercontent.com/30352066/132426436-84807e43-e1ba-44ac-9cc7-92386559da6b.jpg" height="500" width="700">
 
 # Welcome to the MBARI-BOG Protocols manager!
 Here you will be able to find resources used by the MBARI BOG group for our Environmental DNA (eDNA) work.

@@ -14,7 +14,7 @@ Click on the link or photo above to find resources on water sampling.
 
 Click on the link or photo above to find resources and protocos used by the MBARI BOG team in the lab.
 
-## Bioinformatics
-<img width="527" height="280" src="https://user-images.githubusercontent.com/30352066/132757381-93a4d3f1-dfc8-4c0d-99ab-05d8af0a4981.png">
+## [MBARI Dry Lab Pipeline](MBARI_dry_lab.md)
+[<img width="527" height="280" src="https://user-images.githubusercontent.com/30352066/132757381-93a4d3f1-dfc8-4c0d-99ab-05d8af0a4981.png">](MBARI_dry_lab.md)
 
-1. [Banzai Dada2 Pipeline](5.1_Banzai_Pipeline.md)
+Click on the link or photo above to find out more information on the bioinformatics pipeline that the MBARI BOG team uses.

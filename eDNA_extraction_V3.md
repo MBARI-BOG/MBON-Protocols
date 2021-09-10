@@ -1,4 +1,4 @@
-[Back to home](index.md)
+[Back to Wet Lab Protocols](MBARI_wet_lab.md)
 
 # Environmental DNA (eDNA) extraction using Quagen DNeasy 96 Blood and Tissue V.3
 
@@ -134,4 +134,4 @@ Note: Be sure to label your plates along the plate skirt.
 18. Transfer the remaining DNA into a second new skirted 96-well plate. This aliquot will be used for further lab work. Label plate (plate_name  lab DNA  date).
 
 
-[Back to home](index.md)
+[Back to Wet Lab Protocols](MBARI_wet_lab.md)

@@ -24,7 +24,7 @@ PE2-BC-CS2
 
 
 ## PCR
-1. PCR reactions for COI were run with Fluidigm two-step amplification protocol for each sample
+PCR reactions for COI were run with Fluidigm two-step amplification protocol for each sample
 
 ##   Primary PCR
 2. Primary PCR amplifications were carried out in triplicate 25-μl reactions using 
@@ -54,6 +54,7 @@ PE2-BC-CS2
 6. After primary PCR amplification of the marker region, the pooled PCR products were run through an agarose gel to confirm the presence of target bands and absense of non-specific amplification across environmental samples as well as the absence of amplification in no-template controls (NTCs).
 7. Primary PCR products were purified and size selected using the Agencourt AMPure XP bead system (Beckman Coulter, USA). 
 8. A second agarose gel was run to confirm primer removal and retention of target amplicons after purication.
+
 ## Secondary PCR
 9. An aliquot of 20 μl from each purified primary PCR product was sent to RTSF Genomics Core at MSU for secondary PCR amplification with primers which targeted the CS1/CS2 ends of the primary PCR products and added dual indexed, Illumina compatible adapters with barcodes. 
 10.  Secondary PCR amplifications were carried out as single 15-μl reactions using:
@@ -75,9 +76,11 @@ PE2-BC-CS2
 13. Secondary Fluidigm PCR primers (primers listed in 5’ to 3’ direction)
  - PE1-BC-CS1 (forward): `AATGATACGGCGACCACCGAGATCT-[i5-BC(index 2)]-ACACTGACGACATGGTTCTACA`
  - PE2-BC-CS2 (reverse): `CAAGCAGAAGACGGCATACGAGAT-[i7-BC(index 1)]-TACGGTAGCAGAGACTTGGTCT`
+
 ## Quality control, PCR clean-up and sequencing parameters
 13. An agarose gel was run after secondary PCR to confirm the presence of target bands and absense of non-specific amplification across environmental samples as well as the absence of amplification in no-template controls (NTCs).
 14. After secondary PCR, products were run through Invitrogen SequalPrep Normalization Plate (ThermoFisher Scientific) using manufacturer's protocol to create pooled library.
+
 ## Sequencing
 15. The pooled product for the genetic locus was loaded on a standard MiSeq v2 flow cell and sequenced in a 2x250bp paired end format using a v2 500-cycle MiSeq reagent cartridge.
 16. The MiSeq run was performed with a 10% PhiX spike added.

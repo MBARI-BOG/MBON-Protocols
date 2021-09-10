@@ -48,7 +48,7 @@ PE2-BC-CS2
 ````
 5. COI Primary PCR primers (primers listed in 5’ to 3’ direction)
 - Fluidigm CS1+mlCOIinfF (forward): `ACACTGACGACATGGTTCTACA GGWACWGGWTGAACWGTWTAYCCYCC`
-- Fluidigm CS2+HCO2198 (reverse): `TACGGTAGCAGAGACTTGGTCT TAAACTTCAGGGTGACCAAAAAATCA`
+- Fluidigm CS2+HCO2198 (reverse): `TACGGTAGCAGAGACTTGGTCT TAAACTTCAGGGTGACCAAAAAATCA`  
 ## Primary PCR clean-up
 6. After primary PCR amplification of the marker region, the pooled PCR products were run through an agarose gel to confirm the presence of target bands and absense of non-specific amplification across environmental samples as well as the absence of amplification in no-template controls (NTCs).
 7. Primary PCR products were purified and size selected using the Agencourt AMPure XP bead system (Beckman Coulter, USA). 

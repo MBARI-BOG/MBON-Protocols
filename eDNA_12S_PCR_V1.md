@@ -67,7 +67,7 @@ Disinfect work surfaces with 10% bleach, followed by 70% ethanol, then RNase Awa
 17. Base calling was done by Illumina Real Time Analysis (RTA) v1.18.54 and output of RTA was demultiplexed and converted to FastQ format with Illumina Bcl2fastq v2.18.0. 
 18. Custom sequencing primers were added to appropriate wells of the reagent cartridge. 
  
-  *12S rRNA*
+    *12S rRNA*
   - FK NEXTflex Library barcode 6: `CTTGTA`
   - MB NEXTflex Library barcode 4: `GCCAAT`
 

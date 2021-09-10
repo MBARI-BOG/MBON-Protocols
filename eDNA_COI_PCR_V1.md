@@ -24,7 +24,7 @@ PE2-BC-CS2
 
 
 ## PCR
-1. PCR reactions for COI were run with Fluidigm two-step amplification protocol for each sample.
+1. PCR reactions for COI were run with Fluidigm two-step amplification protocol for each sample.  
 ## Primary PCR
 2. Primary PCR amplifications were carried out in triplicate 25-μl reactions using 
  - 1 μl DNA extract (1:10 dilution)

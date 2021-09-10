@@ -1,4 +1,4 @@
-[Back to home](index.md)
+[Back to Wet Lab Protocols](MBARI_wet_lab.md)
 
 # Environmental DNA (eDNA) COI metabarcoding Illumina MiSeq NGS PCR Protocol V1
 ##### Collin Closek<sup>1</sup>, Anni Djurhuus<sup>2</sup>, Katie Pitz<sup>3</sup>, Ryan Kelly<sup>4</sup>, Reiko Michisaki<sup>3</sup>, Kristine Walz<sup>3</sup>, Hilary Starks<sup>1</sup>, Francisco Chavez<sup>3</sup>, Alexandria Boehm<sup>1</sup>, Mya Breitbart<sup>2</sup>
@@ -112,4 +112,4 @@ PE2-BC-CS2
 - `FL2-CS2rc(index)   A+GAC+CA+AGTCTCTGCTACCGTA`
 20. Sequencing is performed at the Research Technology Support Facility (RTSF) Genomics Core at Michigan State University (MSU).
 
-[Back to home](index.md)
+[Back to Wet Lab Protocols](MBARI_wet_lab.md)

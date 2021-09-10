@@ -25,15 +25,13 @@ Earth Microbiome Project - http://www.earthmicrobiome.org/emp-standard-protocols
 4. 18S thermal cycling parameters:
     ````
     95° C for 10 minutes
-    
     35 cycles of the following three steps:
     - 94° C for 45 seconds
     - 57° C for 30 seconds
     - 68 °C for 90 seconds
     Final elongation step of 72° C for 10 minutes
- 
     Hold at 4 °C
-     ````
+    ````
  5. 18S PCR Primer Sequences
  - 18S Forward PCR sequence (Euk1391F): 
      `AATGATACGGCGACCACCGAGATCTACAC TATCGCCGTT CG GTACACACCGCCCGTC `

@@ -16,9 +16,9 @@ Earth Microbiome Project - http://www.earthmicrobiome.org/emp-standard-protocols
 ## PCR
 1. PCR reactions were run in triplicate 25-μl reactions for each sample using 12-basepair Golay barcoded reverse primers (Amaral-Zettler et al., 2009). 
 
-Amaral-Zettler LA, McCliment EA, Ducklow HW, Huse SM (2009) A Method for Studying Protistan Diversity Using Massively Parallel Sequencing of V9 Hypervariable Regions of Small-Subunit Ribosomal RNA Genes. PLoS ONE 4(7): e6372. doi:10.1371/journal.pone.0006372
+ Amaral-Zettler LA, McCliment EA, Ducklow HW, Huse SM (2009) A Method for Studying Protistan Diversity Using Massively Parallel Sequencing of V9 Hypervariable Regions of Small-Subunit Ribosomal RNA Genes. PLoS ONE 4(7): e6372. doi:10.1371/journal.pone.0006372
 
-Earth Microbiome Project - http://www.earthmicrobiome.org/emp-standard-protocols/18s/
+ Earth Microbiome Project - http://www.earthmicrobiome.org/emp-standard-protocols/18s/
 
 2. PCR reactions for 18S rDNA were carried out using 
 - 1 μl DNA extract (1:10 dilution)
@@ -45,14 +45,12 @@ Earth Microbiome Project - http://www.earthmicrobiome.org/emp-standard-protocols
  - 18S Reverse PCR sequence (EukBr): 
     `CAAGCAGAAGACGGCATACGAGAT XXXXXXXXXXXX AGTCAGTCAG CA TGATCCTTCTGCAGGTTCACCTAC`
  - (where XXXXXXXXXXXX is unique 12-bp barcode location, all primers listed in 5’ to 3’ direction)
-
 ## Quality control, PCR clean-up and sequencing parameters
 6. After PCR amplification of the marker region, PCR products were pooled by sample (75 ul) and run through an agarose gel to confirm the presence of target bands and absense of non-specific amplification across environmental samples as well as the absence of amplification in no-template controls (NTCs).
 7. PCR products were purified and size selected using the Agencourt AMPure XP bead system (Beckman Coulter, USA). 
 8. A second agarose gel was run to confirm primer removal and retention of target amplicons after purification. 
 9. Purified products were then quantified using Quant-It Picogreen dsDNA Assay (Life Technologies) on an fmax Molecular Devices Fluorometer with SoftMaxPro v1.3.1
 10. Library pooling was done by combining equimolar volumes from each sample.
-
 ## Sequencing
 11. The pooled product for the genetic locus was loaded on a standard MiSeq v2 flow cell and sequenced in a 2x250bp paired end format using a v2 500-cycle MiSeq reagent cartridge.
 12. The MiSeq run was performed with a 10% PhiX spike added.

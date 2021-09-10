@@ -58,7 +58,6 @@ Disinfect work surfaces with 10% bleach, followed by 70% ethanol, then RNase Awa
 11. Purified products were then quantified using Quant-It Picogreen dsDNA Assay (Life Technologies) on an fmax Molecular Devices Fluorometer with a Qubit dsDNA HS kit.
 12. Equimolar pools were constructed and quantified with Qubit dsDNA HS kit to confirm pool concentration prior to library preparation.
 13. One library was constructed for each location sampled in using the KAPA HyperPrep and Library Quantification kits following manufacturer’s protocol.
-
 ## Sequencing Parameters
 
 14. 12S rRNA gene was sequenced at Stanford Functional Genomics Facility. 

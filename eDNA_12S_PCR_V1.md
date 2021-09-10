@@ -1,4 +1,4 @@
-[Back to home](index.md)
+[Back to Wet Lab Protocols](MBARI_wet_lab.md)
 
 # Environmental DNA (eDNA) 12S metabarcoding Illumina MiSeq NGS PCR Protocol V.1
 
@@ -75,4 +75,4 @@ Disinfect work surfaces with 10% bleach, followed by 70% ethanol, then RNase Awa
   - FK NEXTflex Library barcode 6: `CTTGTA`
   - MB NEXTflex Library barcode 4: `GCCAAT`
 
-[Back to home](index.md)
+[Back to Wet Lab Protocols](MBARI_wet_lab.md)

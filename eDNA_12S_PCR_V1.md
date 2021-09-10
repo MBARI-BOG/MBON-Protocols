@@ -50,7 +50,8 @@ Disinfect work surfaces with 10% bleach, followed by 70% ethanol, then RNase Awa
   - 57 °C for 30 seconds
   - 72 °C for 30 seconds
   Held at 4 °C
-```  
+  ```  
+
 ## Quality Control, PCR Clean-up
 8. After PCR amplification of the marker region, the pooled PCR products were run through an agarose gel to confirm the presence of target bands and absense of non-specific amplification across environmental samples as well as the absence of amplification in no-template controls (NTCs).
 9. PCR products were purified and size selected using the Agencourt AMPure XP bead system (Beckman Coulter, USA). 
@@ -58,8 +59,8 @@ Disinfect work surfaces with 10% bleach, followed by 70% ethanol, then RNase Awa
 11. Purified products were then quantified using Quant-It Picogreen dsDNA Assay (Life Technologies) on an fmax Molecular Devices Fluorometer with a Qubit dsDNA HS kit.
 12. Equimolar pools were constructed and quantified with Qubit dsDNA HS kit to confirm pool concentration prior to library preparation.
 13. One library was constructed for each location sampled in using the KAPA HyperPrep and Library Quantification kits following manufacturer’s protocol.
-## Sequencing Parameters
 
+## Sequencing Parameters
 14. 12S rRNA gene was sequenced at Stanford Functional Genomics Facility. 
 15. The pooled product for each genetic locus was loaded on a standard MiSeq v2 flow cell and sequenced in a 2x250bp paired end format using a v2 500-cycle MiSeq reagent cartridge. 
 16. The MiSeq run was performed and 20% PhiX was added. 

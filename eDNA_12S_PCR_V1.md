@@ -25,7 +25,6 @@ Disinfect work surfaces with 10% bleach, followed by 70% ethanol, then RNase Awa
   - 7.2 μl molecular biology grade water 
 
 3. PCR reactions were performed in 8-well strip tubes with a no template control (NTC) for each group of environmental sample triplicates and artificial community as a positive control per amplification round using the 12S primary PCR primers below (all primers listed in 5’ to 3’ direction).
- 
  - 12S MiFish_U (forward): `GTC GGT AAA ACT CGT GCC AGC` 
  - 12S MiFish_U (reverse): `CAT AGT GGG GTA TCT AAT CCC AGT TTG`
 
@@ -39,10 +38,8 @@ Disinfect work surfaces with 10% bleach, followed by 70% ethanol, then RNase Awa
   Held at 4 °C
   ```
 5. Secondary PCR amplifications are conducted in triplicate 20 μl reactions using same reaction master mix as primary PCR, but with 0.8 μl of each tagged 12S forward and reverse primer (10 μM) listed below (forward & reverse with matching unique 6-base tag, indicated by Xs). 
- 
-  - 12S (forward): `NNN XXX XXX GTC GGT AAA ACT CGT GCC AGC`
- 
-  - 12S (reverse): `NNN XXX XXX CAT AGT GGG GTA TCT AAT CCC AGT TTG`
+ - 12S (forward): `NNN XXX XXX GTC GGT AAA ACT CGT GCC AGC`
+ - 12S (reverse): `NNN XXX XXX CAT AGT GGG GTA TCT AAT CCC AGT TTG`
  
 6. The reaction is carried through with 2 μl of each purified environmental as well as positive and NTC samples.
 7. Secondary 12S tagged PCR cycling parameters:

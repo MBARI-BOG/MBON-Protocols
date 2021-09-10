@@ -3,6 +3,7 @@
 # Environmental DNA (eDNA) COI metabarcoding Illumina MiSeq NGS PCR Protocol V1
 ##### Collin Closek<sup>1</sup>, Anni Djurhuus<sup>2</sup>, Katie Pitz<sup>3</sup>, Ryan Kelly<sup>4</sup>, Reiko Michisaki<sup>3</sup>, Kristine Walz<sup>3</sup>, Hilary Starks<sup>1</sup>, Francisco Chavez<sup>3</sup>, Alexandria Boehm<sup>1</sup>, Mya Breitbart<sup>2</sup>
 ##### <sup>1</sup>Center for Ocean Solutions, Stanford University, CA; <sup>2</sup>University of South Florida, College of Marine Science, St Petersburg, FL; <sup>3</sup>Monterey Bay Aquarium Research Institute, Moss Landing, CA; <sup>4</sup>University of Washington, Seattle, WA
+##### Mar 20, 2018
 
 ## ABSTRACT
 This protocol is aimed at amplifying the cytochrome c oxidase subunit I (COI) mitochondrial gene in eukaryotes. The primers (forward: mlCOIintF, reverse: HCO2198) utilized in this protocol are based on the primers utilized in Leray et al. 2013 (forward) and Folmer et al. 1994 (reverse).

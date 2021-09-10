@@ -16,9 +16,9 @@ Earth Microbiome Project - http://www.earthmicrobiome.org/emp-standard-protocols
 ## PCR
 1. PCR reactions were run in triplicate 25-μl reactions for each sample using 12-basepair Golay barcoded reverse primers (Amaral-Zettler et al., 2009). 
 
- Amaral-Zettler LA, McCliment EA, Ducklow HW, Huse SM (2009) A Method for Studying Protistan Diversity Using Massively Parallel Sequencing of V9 Hypervariable Regions of Small-Subunit Ribosomal RNA Genes. PLoS ONE 4(7): e6372. doi:10.1371/journal.pone.0006372
+  Amaral-Zettler LA, McCliment EA, Ducklow HW, Huse SM (2009) A Method for Studying Protistan Diversity Using Massively Parallel Sequencing of V9 Hypervariable Regions of Small-Subunit Ribosomal RNA Genes. PLoS ONE 4(7): e6372. doi:10.1371/journal.pone.0006372
 
- Earth Microbiome Project - http://www.earthmicrobiome.org/emp-standard-protocols/18s/
+  Earth Microbiome Project - http://www.earthmicrobiome.org/emp-standard-protocols/18s/
 
 2. PCR reactions for 18S rDNA were carried out using 
 - 1 μl DNA extract (1:10 dilution)

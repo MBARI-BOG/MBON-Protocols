@@ -26,7 +26,7 @@ PE2-BC-CS2
 ## PCR
 1. PCR reactions for COI were run with Fluidigm two-step amplification protocol for each sample
 
-### Primary PCR
+## Primary PCR
 2. Primary PCR amplifications were carried out in triplicate 25-μl reactions using 
  - 1 μl DNA extract (1:10 dilution)
  - 12.5 μl AmpliTaq Gold Fast PCR master mix (Applied Biosystems)
@@ -50,12 +50,13 @@ PE2-BC-CS2
 5. COI Primary PCR primers (primers listed in 5’ to 3’ direction)
 - Fluidigm CS1+mlCOIinfF (forward): `ACACTGACGACATGGTTCTACA GGWACWGGWTGAACWGTWTAYCCYCC`
 - Fluidigm CS2+HCO2198 (reverse): `TACGGTAGCAGAGACTTGGTCT TAAACTTCAGGGTGACCAAAAAATCA`  
+
 ## Primary PCR clean-up
 6. After primary PCR amplification of the marker region, the pooled PCR products were run through an agarose gel to confirm the presence of target bands and absense of non-specific amplification across environmental samples as well as the absence of amplification in no-template controls (NTCs).
 7. Primary PCR products were purified and size selected using the Agencourt AMPure XP bead system (Beckman Coulter, USA). 
 8. A second agarose gel was run to confirm primer removal and retention of target amplicons after purication.
 
-### Secondary PCR
+## Secondary PCR
 9. An aliquot of 20 μl from each purified primary PCR product was sent to RTSF Genomics Core at MSU for secondary PCR amplification with primers which targeted the CS1/CS2 ends of the primary PCR products and added dual indexed, Illumina compatible adapters with barcodes. 
 10.  Secondary PCR amplifications were carried out as single 15-μl reactions using:
  - 1 μl template of primary PCR product (no dilution) 

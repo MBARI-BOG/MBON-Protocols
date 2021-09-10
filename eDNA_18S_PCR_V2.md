@@ -4,6 +4,7 @@
 
 #### Collin Closek<sup>1</sup>,Anni Djurhuus<sup>2</sup>,Katie Pitz<sup>3</sup>,Ryan Kelly<sup>4</sup>,Reiko Michisaki<sup>3</sup>,Kristine Walz<sup>3</sup>,Hilary Starks<sup>1</sup>,Francisco Chavez<sup>3</sup>,Alexandria Boehm<sup>1</sup>,Mya Breitbart<sup>2</sup>
 #### <sup>1</sup>Center for Ocean Solutions, Stanford University, CA;<sup>2</sup>University of South Florida, College of Marine Science, St Petersburg, FL;<sup>3</sup>Monterey Bay Aquarium Research Institute, Moss Landing, CA;<sup>4</sup>University of Washington, Seattle, WA
+##### Apr 09, 2018
 
 ## Abstract
 This protocol is aimed at amplifying the 18S rRNA hypervariable region 9 (18S V9) in eukaryotes with a focus on microbial eukaryotes. Amplicons generated using this protocol can then be sequenced using the Illumina platform. The primers (1391F, EukBr) utilized in this protocol are based on the primer utilized in Amaral-Zettler et al 2009 and the Earth Microbiome Project (EMP).

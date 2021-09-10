@@ -52,6 +52,7 @@ Disinfect work surfaces with 10% bleach, followed by 70% ethanol, then RNase Awa
   - 72 °C for 1 minite
   - 72 °C for 3 minutes.
   ```
+
 ## Quality Control, PCR Clean-up
 8. After PCR amplification of the marker region, the pooled PCR products were run through an agarose gel to confirm the presence of target bands and absense of non-specific amplification across environmental samples as well as the absence of amplification in no-template controls (NTCs).
 9. PCR products were purified and size selected using the Agencourt AMPure XP bead system (Beckman Coulter, USA). 

@@ -27,6 +27,7 @@ PE2-BC-CS2
 1. PCR reactions for COI were run with Fluidigm two-step amplification protocol for each sample.
 
 ## Primary PCR
+
 2. Primary PCR amplifications were carried out in triplicate 25-μl reactions using 
 - 1 μl DNA extract (1:10 dilution)
 - 12.5 μl AmpliTaq Gold Fast PCR master mix (Applied Biosystems)
@@ -69,7 +70,7 @@ PE2-BC-CS2
 
 ## Secondary PCR
 9. An aliquot of 20 μl from each purified primary PCR product was sent to RTSF Genomics Core at MSU for secondary PCR amplification with primers which targeted the CS1/CS2 ends of the primary PCR products and added dual indexed, Illumina compatible adapters with barcodes. 
-10. Secondary PCR amplifications were carried out as single 15-μl reactions using:
+10.  Secondary PCR amplifications were carried out as single 15-μl reactions using:
 - 1 μl template of primary PCR product (no dilution) 
 - 6 μl OneTaq Hot Start 2X master mix with standard buffer (NEB)
 - 1 μl of forward and reverse primer mix (6 μM) 
@@ -110,6 +111,7 @@ PE2-BC-CS2
 - `FL1-CS2(read2) T+AC+GGT+AGCAGAGACTTGGTCT`
 - `FL2-CS1rc          T+GT+AG+AACCATGTCGTCAGTGT`
 - `FL2-CS2rc(index)   A+GAC+CA+AGTCTCTGCTACCGTA`
+
 20. Sequencing is performed at the Research Technology Support Facility (RTSF) Genomics Core at Michigan State University (MSU).
 
 [Back to Wet Lab Protocols](MBARI_wet_lab.md)

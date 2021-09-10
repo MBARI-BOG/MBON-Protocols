@@ -26,9 +26,8 @@ Disinfect work surfaces with 10% bleach, followed by 70% ethanol, then RNase Awa
 
 3. PCR reactions were performed in 8-well strip tubes with a no template control (NTC) for each group of environmental sample triplicates and artificial community as a positive control per amplification round using the 12S primary PCR primers below (all primers listed in 5’ to 3’ direction).
  
-  - 12S MiFish_U (forward): `GTC GGT AAA ACT CGT GCC AGC`
- 
-  - 12S MiFish_U (reverse): `CAT AGT GGG GTA TCT AAT CCC AGT TTG`
+ - 12S MiFish_U (forward): `GTC GGT AAA ACT CGT GCC AGC` 
+ - 12S MiFish_U (reverse): `CAT AGT GGG GTA TCT AAT CCC AGT TTG`
 
 4. Primary 12S cycling parameters:
   ```

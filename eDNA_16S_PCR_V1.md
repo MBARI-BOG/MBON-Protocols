@@ -56,6 +56,7 @@ http://press.igsb.anl.gov/earthmicrobiome/protocols-and-standards/16s/
 11.  Purified products were then quantified using Quant-It Picogreen dsDNA Assay (Life Technologies) on an fmax Molecular Devices Fluorometer with SoftMaxPro v1.3.1. 
 12.  Equimolar pools were constructed and quantified with Qubit dsDNA HS kit to confirm pool concentration prior to library preparation.
 13.  One library was constructed for each location sampled in using the KAPA HyperPrep and Library Quantification kits following manufacturer’s protocol.
+
 ##  Sequencing
 14. Sequencing was performed at the Research Technology Support Facility (RTSF) Genomics Core at Michigan State University (MSU). 
 15. The pooled product was loaded on a standard MiSeq v2 flow cell and sequenced in a 2x250bp paired end format using a v2 500-cycle MiSeq reagent cartridge. 

@@ -36,7 +36,8 @@ Earth Microbiome Project - http://www.earthmicrobiome.org/emp-standard-protocols
     `AATGATACGGCGACCACCGAGATCTACAC TATCGCCGTT CG GTACACACCGCCCGTC `
   - 18S Reverse PCR sequence (EukBr): 
     `CAAGCAGAAGACGGCATACGAGAT XXXXXXXXXXXX AGTCAGTCAG CA TGATCCTTCTGCAGGTTCACCTAC`
-    (where XXXXXXXXXXXX is unique 12-bp barcode location, all primers listed in 5’ to 3’ direction)
+    
+(where XXXXXXXXXXXX is unique 12-bp barcode location, all primers listed in 5’ to 3’ direction)
 ## Quality control, PCR clean-up and sequencing parameters
 6. After PCR amplification of the marker region, PCR products were pooled by sample (75 ul) and run through an agarose gel to confirm the presence of target bands and absense of non-specific amplification across environmental samples as well as the absence of amplification in no-template controls (NTCs).
 7. PCR products were purified and size selected using the Agencourt AMPure XP bead system (Beckman Coulter, USA). 

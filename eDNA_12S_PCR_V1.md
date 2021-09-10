@@ -63,7 +63,7 @@ Disinfect work surfaces with 10% bleach, followed by 70% ethanol, then RNase Awa
 12. Equimolar pools were constructed and quantified with Qubit dsDNA HS kit to confirm pool concentration prior to library preparation.
 13. One library was constructed for each location sampled in using the KAPA HyperPrep and Library Quantification kits following manufacturer’s protocol.
 
-  ## Sequencing Parameters
+## Sequencing Parameters
 
 14. 12S rRNA gene was sequenced at Stanford Functional Genomics Facility. 
 15. The pooled product for each genetic locus was loaded on a standard MiSeq v2 flow cell and sequenced in a 2x250bp paired end format using a v2 500-cycle MiSeq reagent cartridge. 

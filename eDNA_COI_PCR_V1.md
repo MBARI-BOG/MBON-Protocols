@@ -62,18 +62,16 @@ PE2-BC-CS2
  - 7 μl molecular-biology grade water 
 11. Secondary COI cycling parameters:
  ```
-   95 °C for 3 minutes 
-   
-   15 cycles of the following three steps:
-   - 95 °C for 15 seconds 
-   - 60 °C for 30 seconds 
-   - 72 °C for 60 seconds 
-   
-   Then a final elongation step of 72 °C for 3 minutes 
-  
-   Hold at 25 °C
-```
-12. Secondary Fluidigm PCR primers (primers listed in 5’ to 3’ direction)
+ Secondary COI cycling parameters:
+ 95 °C for 3 minutes 
+ 15 cycles of the following three steps:
+ - 95 °C for 15 seconds 
+ - 60 °C for 30 seconds 
+ - 72 °C for 60 seconds 
+ Then a final elongation step of 72 °C for 3 minutes 
+ Hold at 25 °C
+ ```
+13. Secondary Fluidigm PCR primers (primers listed in 5’ to 3’ direction)
  - PE1-BC-CS1 (forward): `AATGATACGGCGACCACCGAGATCT-[i5-BC(index 2)]-ACACTGACGACATGGTTCTACA`
  - PE2-BC-CS2 (reverse): `CAAGCAGAAGACGGCATACGAGAT-[i7-BC(index 1)]-TACGGTAGCAGAGACTTGGTCT`
 ## Quality control, PCR clean-up and sequencing parameters

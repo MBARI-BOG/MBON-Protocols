@@ -63,7 +63,7 @@ PE2-BC-CS2
 `TACGGTAGCAGAGACTTGGTCT TAAACTTCAGGGTGACCAAAAAATCA`
 
 
-## Primary PCR clean-up
+ ## Primary PCR clean-up
 6. After primary PCR amplification of the marker region, the pooled PCR products were run through an agarose gel to confirm the presence of target bands and absense of non-specific amplification across environmental samples as well as the absence of amplification in no-template controls (NTCs).
 7. Primary PCR products were purified and size selected using the Agencourt AMPure XP bead system (Beckman Coulter, USA). 
 8. A second agarose gel was run to confirm primer removal and retention of target amplicons after purication.
@@ -97,11 +97,11 @@ PE2-BC-CS2
 - PE2-BC-CS2 (reverse):
 `CAAGCAGAAGACGGCATACGAGAT-[i7-BC(index 1)]-TACGGTAGCAGAGACTTGGTCT`
 
-## Quality control, PCR clean-up and sequencing parameters
+ ## Quality control, PCR clean-up and sequencing parameters
 13. An agarose gel was run after secondary PCR to confirm the presence of target bands and absense of non-specific amplification across environmental samples as well as the absence of amplification in no-template controls (NTCs).
 14. After secondary PCR, products were run through Invitrogen SequalPrep Normalization Plate (ThermoFisher Scientific) using manufacturer's protocol to create pooled library.
 
-## Sequencing
+ ## Sequencing
 15. The pooled product for the genetic locus was loaded on a standard MiSeq v2 flow cell and sequenced in a 2x250bp paired end format using a v2 500-cycle MiSeq reagent cartridge.
 16. The MiSeq run was performed with a 10% PhiX spike added.
 17. Primers complementary to the Fluidigm CS1 & CS2 oligomers were added to appropriate wells of the reagent cartridge to server as sequencing and index read primers.

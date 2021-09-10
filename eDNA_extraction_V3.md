@@ -1,5 +1,11 @@
 [Back to home](index.md)
 
+# Environmental DNA (eDNA) extraction using Quagen DNeasy 96 Blood and Tissue V.3
+
+#### Kristine Walz<sup>1</sup>,Kevan Yamahara<sup>1</sup>,Reiko Michisaki<sup>1</sup>,Francisco Chavez<sup>1</sup>,Nathan Truelove<sup>1</sup>,Jacoby Baker<sup>1</sup>
+#### <sup>1</sup>Monterey Bay Aquarium Research Institue, Moss Landing, CA
+##### December, 2020
+
 # This protocol is a modified version of the Qiagen DNeasy 96-sample protocol: Purification of Total DNA from Animal Tissues
 
 ### This protocol is designed for high-throughput purification of total DNA from animal tissues, including rodent tails. 

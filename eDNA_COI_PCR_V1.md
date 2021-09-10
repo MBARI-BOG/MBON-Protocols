@@ -33,22 +33,18 @@ PE2-BC-CS2
  - 9.5 μl molecular-biology grade water.
 3. PCR reactions were run in 96-well plates with a NTC run in triplicate for each plate.
 4. Primary COI cycling parameters:
-  ````
-   95 °C for 10 minutes
-   
-   16 cycles of the following three steps:
-   - 94 °C for 10 seconds
-   - 62 °C for 30 seconds (this changes -1°C for each subsequent cycle)
-   - 68 °C for 60 seconds
-   
-   Then 25 cycles of the following three steps:
-   - 94 °C for 10 seconds
-   - 46 °C for 30 seconds
-   - 68 °C for 60 seconds
-   
-   A final elongation step of 72 °C for 10 minutes
-   
-   Hold at 4 °C
+ ````
+ 95 °C for 10 minutes
+ 16 cycles of the following three steps:
+  - 94 °C for 10 seconds
+  - 62 °C for 30 seconds (this changes -1°C for each subsequent cycle)
+  - 68 °C for 60 seconds
+ Then 25 cycles of the following three steps:
+  - 94 °C for 10 seconds
+  - 46 °C for 30 seconds
+  - 68 °C for 60 seconds
+ A final elongation step of 72 °C for 10 minutes
+ Hold at 4 °C
 ````
 5. COI Primary PCR primers (primers listed in 5’ to 3’ direction)
  - Fluidigm CS1+mlCOIinfF (forward): `ACACTGACGACATGGTTCTACA GGWACWGGWTGAACWGTWTAYCCYCC`

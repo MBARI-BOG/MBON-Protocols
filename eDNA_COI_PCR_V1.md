@@ -84,10 +84,10 @@ PE2-BC-CS2
 17. Primers complementary to the Fluidigm CS1 & CS2 oligomers were added to appropriate wells of the reagent cartridge to server as sequencing and index read primers.
 18. Base calling was done by Illumina Real Time Analysis (RTA) v1.18.54 and output of RTA was demultiplexed and converted to FastQ format with Illumina Bcl2fastq v2.18.0 
 19. COI Sequencing primers (5’ to 3’ direction):
- - `FL1-CS1(read1) A+CA+CTG+ACGACATGGTTCTACA`
- - `FL1-CS2(read2) T+AC+GGT+AGCAGAGACTTGGTCT`
- - `FL2-CS1rc          T+GT+AG+AACCATGTCGTCAGTGT`
- - `FL2-CS2rc(index)   A+GAC+CA+AGTCTCTGCTACCGTA`
+ - FL1-CS1(read1) `A+CA+CTG+ACGACATGGTTCTACA`
+ - FL1-CS2(read2) `T+AC+GGT+AGCAGAGACTTGGTCT`
+ - FL2-CS1rc          `T+GT+AG+AACCATGTCGTCAGTGT`
+ - FL2-CS2rc(index)   `A+GAC+CA+AGTCTCTGCTACCGTA`
 20. Sequencing is performed at the Research Technology Support Facility (RTSF) Genomics Core at Michigan State University (MSU).
 
 [Back to Wet Lab Protocols](MBARI_wet_lab.md)

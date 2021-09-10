@@ -23,21 +23,20 @@ Earth Microbiome Project - http://www.earthmicrobiome.org/emp-standard-protocols
 
 3. PCR reactions were run in 96-well plates with a NTC run in triplicate for each plate
 4. 18S thermal cycling parameters:
-    ````
-    95° C for 10 minutes
-    35 cycles of the following three steps:
-    - 94° C for 45 seconds
-    - 57° C for 30 seconds
-    - 68 °C for 90 seconds
-    Final elongation step of 72° C for 10 minutes
-    Hold at 4 °C
-    ````
+ ````
+ 95° C for 10 minutes
+ 35 cycles of the following three steps:
+  - 57° C for 30 seconds
+  - 68 °C for 90 seconds
+ Final elongation step of 72° C for 10 minutes
+ Hold at 4 °C
+ ````
  5. 18S PCR Primer Sequences
- - 18S Forward PCR sequence (Euk1391F): 
-     `AATGATACGGCGACCACCGAGATCTACAC TATCGCCGTT CG GTACACACCGCCCGTC `
- - 18S Reverse PCR sequence (EukBr): 
+  - 18S Forward PCR sequence (Euk1391F): 
+    `AATGATACGGCGACCACCGAGATCTACAC TATCGCCGTT CG GTACACACCGCCCGTC `
+  - 18S Reverse PCR sequence (EukBr): 
     `CAAGCAGAAGACGGCATACGAGAT XXXXXXXXXXXX AGTCAGTCAG CA TGATCCTTCTGCAGGTTCACCTAC`
-   (where XXXXXXXXXXXX is unique 12-bp barcode location, all primers listed in 5’ to 3’ direction)
+    (where XXXXXXXXXXXX is unique 12-bp barcode location, all primers listed in 5’ to 3’ direction)
 ## Quality control, PCR clean-up and sequencing parameters
 6. After PCR amplification of the marker region, PCR products were pooled by sample (75 ul) and run through an agarose gel to confirm the presence of target bands and absense of non-specific amplification across environmental samples as well as the absence of amplification in no-template controls (NTCs).
 7. PCR products were purified and size selected using the Agencourt AMPure XP bead system (Beckman Coulter, USA). 

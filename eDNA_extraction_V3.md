@@ -6,13 +6,11 @@
 #### <sup>1</sup>Monterey Bay Aquarium Research Institue, Moss Landing, CA
 ##### December, 2020
 
-# This protocol is a modified version of the Qiagen DNeasy 96-sample protocol: Purification of Total DNA from Animal Tissues
+### This protocol is a modified version of the Qiagen DNeasy 96-sample protocol: Purification of Total DNA from Animal Tissues
 
-### This protocol is designed for high-throughput purification of total DNA from animal tissues, including rodent tails. 
-
-#### Important points before starting
-- If using the DNeasy 96 Blood & Tissue Kit for the first time, read “Important Notes”
-- (page 15).
+## Preparation
+#### Important points before starting (from the original Qiagen DNeasy 96 Blood and Tissue Kit Protocol)
+- If using the DNeasy 96 Blood & Tissue Kit for the first time, read “Important Notes” (page 15).
 - All centrifugation steps are carried out at room temperature (15–25°C).
 - Optional: RNase Away may be used to digest RNA during the procedure. RNase A is not provided in the DNeasy 96 Blood & Tissue Kit (see “Copurification of RNA”, page 19).
 
@@ -24,7 +22,7 @@
 - Preheat an incubator to 56°C for use in step 4.
 - If using frozen tissue, equilibrate the sample to room temperature. Avoid repeated thawing and freezing of samples since this will lead to reduced DNA size.
 
-#### Pre-procedure
+## Pre-procedure
 
 0.1	Organize a 96-well sample layout spreadsheet to identify which samples are in each well location. Don’t forget to include extraction blanks (EB; x1), PCR blanks (x2), and artificial communities (x1)
 
@@ -34,7 +32,7 @@
 
 Note: Be sure to label your plates along the plate skirt.
 
-#### Procedure
+## Procedure
 
 1.  Place eDNA water filters into the collection microtubes. Be sure to have an organization chart to identify location of each sample in the 96-well-plate format.  
 
@@ -53,8 +51,7 @@ Note: Be sure to label your plates along the plate skirt.
 
 	**IMPORTANT:** After preparation, the proteinase K–Buffer ATL working solution should be dispensed immediately into the collection microtubes containing the tail or tissue samples. Incubation of the working solution in the absence of substrate for >30 min reduces lysis efficiency and DNA purity.
 
-	2.5 Bead beat the microtubes in the bead beater at 30hz for 2 minutes. 
-
+2.5. Bead beat the microtubes in the bead beater at 30hz for 2 minutes. 
 	**Note:** Make sure that the bead beater is balanced.
 
 3. Ensure that the microtubes are properly sealed to avoid leakage during shaking. Place a clear cover (saved from step 1) over each rack of collection microtubes, and mix by inverting the rack of collection microtubes. To collect any solution from the caps, centrifuge the collection microtubes. Allow the centrifuge to reach 3000 rpm, and then stop the centrifuge. It is essential that the samples are completely submerged in the proteinase K–Buffer ATL working solution after centrifugation.
@@ -118,12 +115,10 @@ Note: Be sure to label your plates along the plate skirt.
 	It is not necessary to increase the volume of Buffer AW2 if the volume of proteinase K–Buffer ATL working solution was increased in steps 3 or 5.
 
 14. Centrifuge for 15 min at 4700 rpm.
+  Do not seal the plate with AirPore Tape.
+  The heat generated during centrifugation ensures evaporation of residual ethanol in the sample (from Buffer AW2) that might otherwise inhibit downstream reactions.
 
-	Do not seal the plate with AirPore Tape.
-	
-	The heat generated during centrifugation ensures evaporation of residual ethanol in the sample (from Buffer AW2) that might otherwise inhibit downstream reactions.
-
-	14.5 If there is still liquid in the spin-column or flow-through touching the bottom of the spin column, repeat the drying step. (Centrifuge for an additional 10 minutes at 4700 rpm.)
+14.5. If there is still liquid in the spin-column or flow-through touching the bottom of the spin column, repeat the drying step (Centrifuge for an additional 10 minutes at 4700 rpm.)
 
 15. Place each DNeasy 96 plate in the correct orientation on a new rack of Elution Microtubes RS (provided).
 

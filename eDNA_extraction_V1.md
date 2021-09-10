@@ -1,4 +1,4 @@
-[Back to home](index.md)
+[Back to Wet Lab Protocols](MBARI_wet_lab.md)
 
 # Environmental DNA (eDNA) extraction using Qiagen DNeasy blood and tissue kit V.1
 
@@ -20,4 +20,4 @@ Nucleic acids extraction from the filters using the Qiagen DNeasy Blood and Tiss
 6. Samples were subsequently diluted 1:10, split into three aliquots, and distributed to three separate research laboratories for marker-specific processing: 16S rRNA gene at the University of South Florida (secondary 16S amplification done at RTSF Genomics Core, MSU), 18S rRNA and COI gene at the Monterey Bay Aquarium Research Institute (secondary COI amplification at RTSF Genomics Core), and 12S rRNA gene at Stanford University. See "Environmental DNA (eDNA) metabarcoding Illumina MiSeq NGS PCR Protocol" for 12S, 18S, 16S, and CO1.
 7. Additionally, each loci had a mock community that served as positive controls for library preparation steps and sequencing.
 
-[Back to home](index.md)
+[Back to Wet Lab Protocols](MBARI_wet_lab.md)

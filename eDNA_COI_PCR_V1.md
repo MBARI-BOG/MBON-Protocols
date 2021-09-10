@@ -26,13 +26,13 @@ PE2-BC-CS2
 ## PCR
 1. PCR reactions for COI were run with Fluidigm two-step amplification protocol for each sample.
 ## Primary PCR
-2. Primary PCR amplifications were carried out in triplicate 25-μl reactions using 
+3. Primary PCR amplifications were carried out in triplicate 25-μl reactions using 
  - 1 μl DNA extract (1:10 dilution)
  - 12.5 μl AmpliTaq Gold Fast PCR master mix (Applied Biosystems)
  - 1 μl each of forward and reverse primers (5 μM) 
  - 9.5 μl molecular-biology grade water.
-3. PCR reactions were run in 96-well plates with a NTC run in triplicate for each plate.
-4. Primary COI cycling parameters:
+4. PCR reactions were run in 96-well plates with a NTC run in triplicate for each plate.
+5. Primary COI cycling parameters:
   ````
    95 °C for 10 minutes
    

@@ -1,4 +1,4 @@
-[Back to home](index.md)
+[Back to Wet Lab Protocols](MBARI_wet_lab.md)
 
 # Environmental DNA (eDNA) 16S metabarcoding Illumina MiSeq NGS PCR Protocol V.1
 
@@ -69,4 +69,4 @@ Disinfect work surfaces with 10% bleach, followed by 70% ethanol, then RNase Awa
 18. Base calling was done by Illumina Real Time Analysis (RTA) v1.18.54 and output of RTA was demultiplexed and converted to FastQ format with Illumina Bcl2fastq v2.18.0. 
 
 
-[Back to home](index.md)
+[Back to Wet Lab Protocols](MBARI_wet_lab.md)

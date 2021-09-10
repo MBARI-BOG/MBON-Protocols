@@ -1,4 +1,4 @@
-[Back to home](index.md)
+[Back to Wet Lab Protocols](MBARI_wet_lab.md)
 
 # Environmental DNA (eDNA) 16S metabarcoding Illumina MiSeq NGS PCR Protocol V.1
 
@@ -67,4 +67,4 @@ http://press.igsb.anl.gov/earthmicrobiome/protocols-and-standards/16s/
 
 
 
-[Back to home](index.md)
+[Back to Wet Lab Protocols](MBARI_wet_lab.md)

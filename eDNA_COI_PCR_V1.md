@@ -51,10 +51,8 @@ PE2-BC-CS2
    Hold at 4 °C
 ````
 5. COI Primary PCR primers (primers listed in 5’ to 3’ direction)
-- Fluidigm CS1+mlCOIinfF (forward):
-`ACACTGACGACATGGTTCTACA GGWACWGGWTGAACWGTWTAYCCYCC`
-- Fluidigm CS2+HCO2198 (reverse):
-`TACGGTAGCAGAGACTTGGTCT TAAACTTCAGGGTGACCAAAAAATCA`
+ - Fluidigm CS1+mlCOIinfF (forward): `ACACTGACGACATGGTTCTACA GGWACWGGWTGAACWGTWTAYCCYCC`
+ - Fluidigm CS2+HCO2198 (reverse): `TACGGTAGCAGAGACTTGGTCT TAAACTTCAGGGTGACCAAAAAATCA`
 ## Primary PCR clean-up
 6. After primary PCR amplification of the marker region, the pooled PCR products were run through an agarose gel to confirm the presence of target bands and absense of non-specific amplification across environmental samples as well as the absence of amplification in no-template controls (NTCs).
 7. Primary PCR products were purified and size selected using the Agencourt AMPure XP bead system (Beckman Coulter, USA). 
@@ -67,7 +65,6 @@ PE2-BC-CS2
  - 1 μl of forward and reverse primer mix (6 μM) 
  - 7 μl molecular-biology grade water 
 11. Secondary COI cycling parameters:
-
  ```
    95 °C for 3 minutes 
    
@@ -81,10 +78,8 @@ PE2-BC-CS2
    Hold at 25 °C
 ```
 12. Secondary Fluidigm PCR primers (primers listed in 5’ to 3’ direction)
-- PE1-BC-CS1 (forward):
-`AATGATACGGCGACCACCGAGATCT-[i5-BC(index 2)]-ACACTGACGACATGGTTCTACA`
-- PE2-BC-CS2 (reverse):
-`CAAGCAGAAGACGGCATACGAGAT-[i7-BC(index 1)]-TACGGTAGCAGAGACTTGGTCT`
+ - PE1-BC-CS1 (forward): `AATGATACGGCGACCACCGAGATCT-[i5-BC(index 2)]-ACACTGACGACATGGTTCTACA`
+ - PE2-BC-CS2 (reverse): `CAAGCAGAAGACGGCATACGAGAT-[i7-BC(index 1)]-TACGGTAGCAGAGACTTGGTCT`
 ## Quality control, PCR clean-up and sequencing parameters
 13. An agarose gel was run after secondary PCR to confirm the presence of target bands and absense of non-specific amplification across environmental samples as well as the absence of amplification in no-template controls (NTCs).
 14. After secondary PCR, products were run through Invitrogen SequalPrep Normalization Plate (ThermoFisher Scientific) using manufacturer's protocol to create pooled library.

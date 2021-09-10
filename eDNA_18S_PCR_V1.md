@@ -1,4 +1,4 @@
-[Back to home](index.md)
+[Back to wet lab](MBARI_wet_lab.md)
 
 # Environmental DNA (eDNA) 18S metabarcoding Illumina MiSeq NGS PCR Protocol V.1
 
@@ -64,4 +64,4 @@ Earth Microbiome Project - http://www.earthmicrobiome.org/emp-standard-protocols
 - `Index read (rcEukBr+rcPad+rcLinker): GTA GGT GAA CCT GCA GAA GGA TCA+TG+CTGA CTGACT`
 16. Sequencing is performed at the Research Technology Support Facility (RTSF) Genomics Core at Michigan State University (MSU).
 
-[Back to home](index.md)
+[Back to wet lab](MBARI_wet_lab.md)

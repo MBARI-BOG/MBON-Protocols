@@ -1,7 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/30352066/132426436-84807e43-e1ba-44ac-9cc7-92386559da6b.jpg" height="500" width="700">
 
-# Welcome to the MBARI-BOG (Monterey Bay Aquarium Research Institute - Biological Oceanography Group) Protocols manager!
+# Welcome to the MBARI-BOG Protocols manager!
 Here you will be able to find resources used by the MBARI BOG group for our Environmental DNA (eDNA) work.
 
 ## [Water Sampling](Water_Sampling_page.md)

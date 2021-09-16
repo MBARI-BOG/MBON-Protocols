@@ -26,8 +26,8 @@ UV pipets, molecular grade water, and tube racks for 30 minutes prior to startin
 1. eDNA template & PCR processing were performed at the Monterey Bay Aquarium Research Institute (MBARI).
     PCR reactions for the 12S locus were performed with a two-step amplification protocol for each sample using the MiFish_U primers (Miya et al. 2015) with Fluidigm adapters CS1 & CS2.
     All primers listed in the 5’ to 3’ direction. MiFish primers are in bold.
- - Fluidigm CS1 + 12S MiFish_U (forward): `**ACACTGACGACATGGTTCTACAGTCGGTAAAACTCGTGCCAGC**`
- - Fluidigm CS2 + 12S MiFish_U (reverse): `**TACGGTAGCAGAGACTTGGTCTCATAGTGGGGTATCTAATCCCAGTTTG**`
+ - Fluidigm CS1 + 12S MiFish_U (forward): `ACACTGACGACATGGTTCTACAGTCGGTAAAACTCGTGCCAGC`
+ - Fluidigm CS2 + 12S MiFish_U (reverse): `TACGGTAGCAGAGACTTGGTCTCATAGTGGGGTATCTAATCCCAGTTTG`
 2. The primary PCR amplifications were carried out in triplicate 25 μl reactions using:
  - 1 μL eDNA extract template 
  - 12.5 μL AmpliTaq Gold™ Fast PCR Master Mix

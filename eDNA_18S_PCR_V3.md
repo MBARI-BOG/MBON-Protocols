@@ -44,6 +44,7 @@ Disinfect work surfaces with 10% bleach, followed by 70% ethanol, then RNase Awa
 7. PCR products were purified and size selected using the Agencourt AMPure XP bead system (Beckman Coulter, USA). 
 8. A second agarose gel was run to confirm primer removal and retention of target amplicons after purification. 
 9. Purified products were then quantified using Quant-It Picogreen dsDNA Assay (Life Technologies) on an fmax Molecular Devices Fluorometer with SoftMaxPro v1.3.1
+
 ## Secondary Amplification
 10. Secondary amplification and NGS were performed at Michigan State University's Research Technology Support Facility (RTSF).
     An aliquot of 20 μL from each purified primary PCR product was sent to RTSF Genomics Core at MSU for secondary PCR amplification with primers which targeted the CS1/CS2 ends of the primary PCR products and added dual indexed, Illumina compatible adapters with barcodes. 

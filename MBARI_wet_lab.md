@@ -7,8 +7,11 @@ Here you will find the protocols and resources that we use in the wet lab to pro
 ### DNA Extractions
 - [Environmental DNA (eDNA) extraction using Qiagen DNeasy 96 Blood and Tissue Kit V.3](eDNA_extraction_V3.md)
 
+
+
 ### PCR
 - [Environmental DNA (eDNA) 18S metabarcoding Illumina MiSeq NGS PCR Protocol V.3](eDNA_18S_PCR_V3.md)
+- [Environmental DNA (eDNA) COI metabarcoding Illumina MiSeq NGS PCR Protocol V.2](eDNA_COI_PCR_V2.md)
 
 ### Bead Clean-up
 - [PCR Bead Clean-up with AMPURE XP Beads](Bead_cleanup.md)

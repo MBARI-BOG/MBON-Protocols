@@ -8,7 +8,5 @@ Here you will find the bioinformatics pipeline that we follow after we receive o
 ### Sequence Data Cleanup
 - [Banzai Dada2 Pipeline](5.1_Banzai_Pipeline.md)
 
-### Specific Projects
-Here you can find the Repos of specific projects worked on by the MBARI BOG group
 
 [Back to home](index.md)

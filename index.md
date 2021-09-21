@@ -18,3 +18,6 @@ Working with environmental DNA samples can be tricky; in this section, we share 
 [<img width="527" height="280" src="https://user-images.githubusercontent.com/30352066/132757381-93a4d3f1-dfc8-4c0d-99ab-05d8af0a4981.png">](MBARI_dry_lab.md)
 
 Now that the 'fun and easy' part is done, it's time to look at the data! Like other Next Generation Sequencing projects, eDNA Metabarcoding produces a LOT of data taht can be daunting to tackle. Here, we provide the general pipeline that we follow in the MBARI-BOG dry lab. Click on the link or photo above to find out more information on the bioinformatics pipeline that the MBARI BOG team uses.
+
+## [Published Data and Associated Analysis Scripts](Published_projects.md)
+Here you can find the data and scripts used in our recent publications.

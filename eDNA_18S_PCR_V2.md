@@ -20,11 +20,10 @@ Disinfect work surfaces with 10% bleach, followed by 70% ethanol, then RNase Awa
 ## PCR
 1. PCR reactions were run in triplicate 25-μl reactions for each sample using 12-basepair Golay barcoded reverse primers (Amaral-Zettler et al., 2009). 
 2. PCR reactions for 18S rDNA were carried out using 
-  -1 μl DNA extract (1:10 dilution)
-  -12.5 μl Amplitaq Gold Fast PCR mastermix (Applied Biosystems)
-  -1 μl each of forward and reverse primers (5 μM)
-  -9.5 μl molecular-biology grade water
-  
+  - 1 μl DNA extract (1:10 dilution)
+  - 12.5 μl Amplitaq Gold Fast PCR mastermix (Applied Biosystems)
+  - 1 μl each of forward and reverse primers (5 μM)
+  - 9.5 μl molecular-biology grade water
 3. PCR reactions were run in 96-well plates with a NTC run in triplicate for each plate
 4. 18S thermal cycling parameters:
   ```

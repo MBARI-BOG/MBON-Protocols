@@ -11,6 +11,7 @@ Here you will find the protocols and resources that we use in the wet lab to pro
 - [Environmental DNA (eDNA) 18S metabarcoding Illumina MiSeq NGS PCR Protocol V.3](eDNA_18S_PCR_V3.md)
 
 ### Bead Clean-up
+- [PCR Bead Clean-up with AMPURE XP Beads](Bead_cleanup.md)
 
 
 ## Previously Used Protocols
@@ -28,8 +29,7 @@ Here you will find the protocols and resources that we use in the wet lab to pro
 - [Environmental DNA (eDNA) 16S metabarcoding Illumina MiSeq NGS PCR Protocol V.1](eDNA_16S_PCR_V1.md)
 - [Environmental DNA (eDNA) 12S metabarcoding Illumina MiSeq NGS PCR Protocol (Classic) V.1 ](eDNA_12S_CL_PCR_V1.md)
 
-### Bead Clean-up
-- [PCR Bead Clean-up with AMPURE XP Beads](Bead_cleanup.md)
+
 
 
 [Back to home](index.md)

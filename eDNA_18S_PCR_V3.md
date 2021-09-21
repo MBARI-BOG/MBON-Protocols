@@ -55,7 +55,7 @@ Disinfect work surfaces with 10% bleach, followed by 70% ethanol, then RNase Awa
  - 7 μl DI water
  - 1 μl Primer Mix (6uM)
  - 1 μl original eDNA PCR product
-12. Secondary 12S cycling parameters:
+12. Secondary 18S cycling parameters:
  ```
  95°C 3 minutes
  15 cycles of the following three steps:

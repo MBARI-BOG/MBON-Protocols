@@ -52,11 +52,12 @@ PE2-BC-CS2
 - Fluidigm CS1+mlCOIinfF (forward): `ACACTGACGACATGGTTCTACA GGWACWGGWTGAACWGTWTAYCCYCC`
 - Fluidigm CS2+HCO2198 (reverse): `TACGGTAGCAGAGACTTGGTCT TAAACTTCAGGGTGACCAAAAAATCA`  
 
-## Primary PCR clean-up
+## Primary PCR clean-up ([Bead Clean-up Protocol](Bead_cleanup.md))
 6. After primary PCR amplification of the marker region, the PCR products were run through an agarose gel to confirm the presence of target bands and absense of non-specific amplification across environmental samples as well as the absence of amplification in no-template controls (NTCs).
 7. Primary PCR products were purified and size selected using the Agencourt AMPure XP bead system (Beckman Coulter, USA). 
 8. A second agarose gel was run to confirm primer removal and retention of target amplicons after purication.
 
+## The following steps are performed my MSU's RTSF Genomics Core
 ## Secondary PCR
 9. An aliquot of 20 μl from each purified primary PCR product was sent to RTSF Genomics Core at MSU for secondary PCR amplification with primers which targeted the CS1/CS2 ends of the primary PCR products and added dual indexed, Illumina compatible adapters with barcodes. 
 10.  Secondary PCR amplifications were carried out as single 15-μl reactions using:

@@ -3,6 +3,7 @@
 # MBARI BOG Wet Lab Protocols
 Here you will find the protocols and resources that we use in the wet lab to process our filtered water samples and prepare them for sequencing.
 
+______________________________________________________
 ## Currently Used Protocols
 ### DNA Extractions
 - [Environmental DNA (eDNA) extraction using Qiagen DNeasy 96 Blood and Tissue Kit V.3](eDNA_extraction_V3.md)
@@ -17,6 +18,7 @@ Here you will find the protocols and resources that we use in the wet lab to pro
 - [PCR Bead Clean-up with AMPURE XP Beads](Bead_cleanup.md)
 
 
+____________________________________________________
 ## Previously Used Protocols
 ### DNA Extractions
 - [Environmental DNA (eDNA) extraction using Qiagen DNeasy blood and tissue kit V.1](eDNA_extraction_V1.md)

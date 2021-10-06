@@ -57,7 +57,9 @@ PE2-BC-CS2
 7. Primary PCR products were purified and size selected using the Agencourt AMPure XP bead system (Beckman Coulter, USA). 
 8. A second agarose gel was run to confirm primer removal and retention of target amplicons after purication.
 
-## The following steps are performed my MSU's RTSF Genomics Core
+
+_______________________________________________________________________
+### _The following steps are performed my MSU's RTSF Genomics Core_
 ## Secondary PCR
 9. An aliquot of 20 μl from each purified primary PCR product was sent to RTSF Genomics Core at MSU for secondary PCR amplification with primers which targeted the CS1/CS2 ends of the primary PCR products and added dual indexed, Illumina compatible adapters with barcodes. 
 10.  Secondary PCR amplifications were carried out as single 15-μl reactions using:

@@ -34,7 +34,7 @@ PE2-BC-CS2
  - 3 μl each of forward and reverse primers (5 μM) 
  - 28.5 μl molecular-biology grade water.
 3. PCR reactions were run in 96-well plates with a NTC run in singleton for each plate.
-4. Primary COI cycling parameters:
+4. Primary COI cycling parameters - Thse parameters use a normal ramp speed:
  ````
  95 °C for 10 minutes
  16 cycles of the following three steps:

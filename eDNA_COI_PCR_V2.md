@@ -49,8 +49,10 @@ PE2-BC-CS2
  Hold at 4 °C
 ````
 5. COI Primary PCR primers (primers listed in 5’ to 3’ direction)
-- Fluidigm CS1+mlCOIinfF (forward): `ACACTGACGACATGGTTCTACA GGWACWGGWTGAACWGTWTAYCCYCC`
-- Fluidigm CS2+HCO2198 (reverse): `TACGGTAGCAGAGACTTGGTCT TAAACTTCAGGGTGACCAAAAAATCA`  
+- Fluidigm CS1+mlCOIinfF (forward): 
+  > ***ACACTGACGACATGGTTCTACA***GGWACWGGWTGAACWGTWTAYCCYCC
+- Fluidigm CS2+HCO2198 (reverse): 
+  > ***TACGGTAGCAGAGACTTGGTCT*** TAAACTTCAGGGTGACCAAAAAATCA  
 
 ## Primary PCR clean-up ([Bead Clean-up Protocol](Bead_cleanup.md))
 6. After primary PCR amplification of the marker region, the PCR products were run through an agarose gel to confirm the presence of target bands and absense of non-specific amplification across environmental samples as well as the absence of amplification in no-template controls (NTCs).

@@ -51,7 +51,7 @@ Note: Be sure to label your plates along the plate skirt.
 
 	**IMPORTANT:** After preparation, the proteinase K–Buffer ATL working solution should be dispensed immediately into the collection microtubes containing the tail or tissue samples. Incubation of the working solution in the absence of substrate for >30 min reduces lysis efficiency and DNA purity.
 
-2.5. Bead beat the microtubes in the bead beater at 30hz for 2 minutes. 
+    2.5. Bead beat the microtubes in the bead beater at 30hz for 2 minutes. 
 	**Note:** Make sure that the bead beater is balanced.
 
 3. Ensure that the microtubes are properly sealed to avoid leakage during shaking. Place a clear cover (saved from step 1) over each rack of collection microtubes, and mix by inverting the rack of collection microtubes. To collect any solution from the caps, centrifuge the collection microtubes. Allow the centrifuge to reach 3000 rpm, and then stop the centrifuge. It is essential that the samples are completely submerged in the proteinase K–Buffer ATL working solution after centrifugation.
@@ -118,7 +118,7 @@ Note: Be sure to label your plates along the plate skirt.
   Do not seal the plate with AirPore Tape.
   The heat generated during centrifugation ensures evaporation of residual ethanol in the sample (from Buffer AW2) that might otherwise inhibit downstream reactions.
 
-14.5. If there is still liquid in the spin-column or flow-through touching the bottom of the spin column, repeat the drying step (Centrifuge for an additional 10 minutes at 4700 rpm.)
+    14.5. If there is still liquid in the spin-column or flow-through touching the bottom of the spin column, repeat the drying step (Centrifuge for an additional 10 minutes at 4700 rpm.)
 
 15. Place each DNeasy 96 plate in the correct orientation on a new rack of Elution Microtubes RS (provided).
 

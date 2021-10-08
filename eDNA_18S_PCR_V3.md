@@ -26,9 +26,9 @@ Disinfect work surfaces with 10% bleach, followed by 70% ethanol, then RNase Awa
 3. PCR reactions were run in 96-well plates with a NTC run in singleton for each plate
 4. Primer Sequences
  - 18S Forward PCR sequence (Euk1391F): 
-   > ***ACACTGACGACATGGTTCTACA*** GTACACACCGCCCGTC
+   > ***ACACTGACGACATGGTTCTACA***GTACACACCGCCCGTC
  - 18S Reverse PCR sequence (EukBr): 
-   > ***TACGGAGCAGAGACTTGGTCT*** TGATCCTTCTGCAGGTTCACCTAC`
+   > ***TACGGAGCAGAGACTTGGTCT***TGATCCTTCTGCAGGTTCACCTAC`
 5. 18S thermal cycling parameters - Thse parameters use a normal ramp speed::
   ```
   95° C for 10 minutes
@@ -41,12 +41,17 @@ Disinfect work surfaces with 10% bleach, followed by 70% ethanol, then RNase Awa
   ```
 
 
-## Quality Control, PCR Clean-up, and Sequencing Parameters
+## Quality Control, PCR Clean-up ([Bead Clean-up Protocol](Bead_cleanup.md)), and Sequencing Parameters 
 6. After PCR amplification of the marker region, PCR products were run through an agarose gel to confirm the presence of target bands and absense of non-specific amplification across environmental samples as well as the absence of amplification in no-template controls (NTCs).
 7. PCR products were purified and size selected using the Agencourt AMPure XP bead system (Beckman Coulter, USA). 
 8. A second agarose gel was run to confirm primer removal and retention of target amplicons after purification. 
 9. Purified products were then quantified using Quant-It Picogreen dsDNA Assay (Life Technologies) on an fmax Molecular Devices Fluorometer with SoftMaxPro v1.3.1
 
+
+
+
+_______________________________________________________________________
+### _The following steps are performed by MSU's RTSF Genomics Core_
 ## Secondary Amplification
 10. Secondary amplification and NGS were performed at Michigan State University's Research Technology Support Facility (RTSF).
     An aliquot of 20 μL from each purified primary PCR product was sent to RTSF Genomics Core at MSU for secondary PCR amplification with primers which targeted the CS1/CS2 ends of the primary PCR products and added dual indexed, Illumina compatible adapters with barcodes. 

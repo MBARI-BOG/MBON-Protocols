@@ -25,9 +25,11 @@ Disinfect work surfaces with 10% bleach, followed by 70% ethanol, then RNase Awa
   - 28.5 μl molecular-biology grade water
 3. PCR reactions were run in 96-well plates with a NTC run in singleton for each plate
 4. Primer Sequences
- - 18S Forward PCR sequence (Euk1391F): `ACACTGACGACATGGTTCTACAGTACACACCGCCCGTC` 
- - 18S Reverse PCR sequence (EukBr): `TACGG AGCAGAGACTTGGTCTTGATCCTTCTGCAGGTTCACCTAC`
-5. 18S thermal cycling parameters:
+ - 18S Forward PCR sequence (Euk1391F): 
+   > ***ACACTGACGACATGGTTCTACA*** GTACACACCGCCCGTC
+ - 18S Reverse PCR sequence (EukBr): 
+   > ***TACGGAGCAGAGACTTGGTCT*** TGATCCTTCTGCAGGTTCACCTAC`
+5. 18S thermal cycling parameters - Thse parameters use a normal ramp speed::
   ```
   95° C for 10 minutes
   35 cycles of the following three steps:

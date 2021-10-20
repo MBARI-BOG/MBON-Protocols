@@ -54,16 +54,13 @@ UV pipets, molecular grade water, and tube racks for 30 minutes prior to startin
 ## Quality Control and Product Clean-up
 5. After primary PCR amplification of the marker region, the PCR products were pooled (75 μL total per unique environmental sample) and run through a 2% agarose gel to confirm the presence of target bands and absense of non-specific amplification across environmental samples.
 6. Primary PCR products were purified and size selected using the Agencourt AMPure XP bead system (Beckman Coulter, USA) at 1.2x volume beads to product.
-7. A second agarose gel was run to confirm primer removal and retention of target amplicons after purification. 
+7. A second agarose gel was run to confirm primer removal and retention of target amplicons after purification. NTCs were also tested using a Qubit dsDNA 1x high sensitivity kit to ensure no amplification.
 
-    NTCs were also tested using a Qubit dsDNA 1x high sensitivity kit to ensure no amplification.
 ## Secondary Amplification
 8. Secondary amplification and NGS were performed at Michigan State University's Research Technology Support Facility (RTSF).
     An aliquot of 20 μL from each purified primary PCR product was sent to RTSF Genomics Core at MSU for secondary PCR amplification with primers which targeted the CS1/CS2 ends of the primary PCR products and added dual indexed, Illumina compatible adapters with barcodes. 
-
  - PE1-BC-CS1 (forward): `AATGATACGGCGACCACCGAGATCT-[i5-BC(index 2)]-ACACTGACGACATGGTTCTACA`
  - PE2-BC-CS2 (reverse): `CAAGCAGAAGACGGCATACGAGAT-[i7-BC(index 1)]-TACGGTAGCAGAGACTTGGTCT`
-
 9. The secondary PCR amplifications were carried out in 15 μL reactions, using 1 μL original pooled PCR product triplicates.
  - 6 μl 2.5X HotMaster Mix
  - 7 μl DI water

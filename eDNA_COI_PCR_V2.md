@@ -28,7 +28,7 @@ PE2-BC-CS2
 1. PCR reactions for COI were run with Fluidigm two-step amplification protocol for each sample
 
 ## Primary PCR
-2. Primary PCR amplifications were carried out in single 25-μl reactions using 
+2. Primary PCR amplifications were carried out in single 75-μl reactions using 
  - 3 μl DNA extract
  - 37.5 μl AmpliTaq Gold Fast PCR master mix (Applied Biosystems)
  - 3 μl each of forward and reverse primers (5 μM) 

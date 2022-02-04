@@ -14,7 +14,7 @@ ______________________________________________________
 - [Environmental DNA (eDNA) 18S metabarcoding Illumina MiSeq NGS PCR Protocol V.3](eDNA_18S_PCR_V3.md)
 - [Environmental DNA (eDNA) COI metabarcoding Illumina MiSeq NGS PCR Protocol V.2](eDNA_COI_PCR_V2.md)
 - [Environmental DNA (eDNA) 12S metabarcoding Illumina MiSeq NGS PCR Protocol (Platinum SuperFi II) V.3](eDNA_12S_SupFi2_PCR_V3.md)
-- - [Environmental DNA (eDNA) 16S metabarcoding Illumina MiSeq NGS PCR Protocol V.3](eDNA_16S_PCR_V3.md)
+- [Environmental DNA (eDNA) 16S metabarcoding Illumina MiSeq NGS PCR Protocol V.3](eDNA_16S_PCR_V3.md)
 
 
 ### Bead Clean-up

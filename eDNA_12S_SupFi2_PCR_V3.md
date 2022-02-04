@@ -1,6 +1,6 @@
 [Back to Wet Lab Protocols](MBARI_wet_lab.md)
 
-# Environmental DNA (eDNA) 12S Metabarcoding Illumina MiSeq NGS PCR Protocol (with Platinum SuperFi II Taq) V.1
+# Environmental DNA (eDNA) 12S Metabarcoding Illumina MiSeq NGS PCR Protocol (with Platinum SuperFi II Taq) V.3
 
 #### Nathan Truelove<sup>1</sup>,Jacoby Baker<sup>1</sup>,Katie Pitz<sup>1</sup>,Francisco Chavez<sup>1</sup>
 #### <sup>1</sup>Monterey Bay Aquarium Research Institute, Moss Landing, CA

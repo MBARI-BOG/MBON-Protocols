@@ -56,7 +56,7 @@ UV pipets, molecular grade water, and tube racks for 30 minutes prior to startin
 7. A second agarose gel was run to confirm primer removal and retention of target amplicons after purification. NTCs were also tested using a Qubit dsDNA 1x high sensitivity kit to ensure no amplification.
 
 _______________________________________________________________________
-### _The following steps are performed by MSU's RTSF Genomics Core_
+### _The following steps are performed by [MSU's RTSF Genomics Core](https://rtsf.natsci.msu.edu/genomics/)_
 ## Secondary Amplification
 8. Secondary amplification and NGS were performed at Michigan State University's Research Technology Support Facility (RTSF).
     An aliquot of 20 μL from each purified primary PCR product was sent to RTSF Genomics Core at MSU for secondary PCR amplification with primers which targeted the CS1/CS2 ends of the primary PCR products and added dual indexed, Illumina compatible adapters with barcodes. 

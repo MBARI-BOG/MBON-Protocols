@@ -62,11 +62,11 @@ _______________________________________________________________________
     An aliquot of 20 μL from each purified primary PCR product was sent to RTSF Genomics Core at MSU for secondary PCR amplification with primers which targeted the CS1/CS2 ends of the primary PCR products and added dual indexed, Illumina compatible adapters with barcodes. 
  - PE1-BC-CS1 (forward): `AATGATACGGCGACCACCGAGATCT-[i5-BC(index 2)]-ACACTGACGACATGGTTCTACA`
  - PE2-BC-CS2 (reverse): `CAAGCAGAAGACGGCATACGAGAT-[i7-BC(index 1)]-TACGGTAGCAGAGACTTGGTCT`
-9. The secondary PCR amplifications were carried out in 15 μL reactions, using 1 μL original pooled PCR product.
+9. The secondary PCR amplifications were carried out in 15 μL reactions, using 1 μL of primary PCR product.
  - 6 μl 2.5X HotMaster Mix
  - 7 μl DI water
  - 1 μl Primer Mix (6uM)
- - 1 μl original eDNA PCR product
+ - 1 μl primary eDNA PCR product
 10. Secondary 12S cycling parameters:
  ```
  95°C 3 minutes

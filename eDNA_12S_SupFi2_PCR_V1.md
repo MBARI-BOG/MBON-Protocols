@@ -49,7 +49,7 @@ UV pipets, molecular grade water, and tube racks for 30 minutes prior to startin
  4°C HOLD
  ```
  
- ## Quality Control and Product Clean-up
+## Quality Control and Product Clean-up
 5. After primary PCR amplification of the marker region the PCR product was run through a 2% agarose gel to confirm the presence of target bands (~270 bp) and absense of non-specific amplification (bacterial band ~370 bp) across environmental samples.
 ## Primary PCR clean-up ([Bead Clean-up Protocol](Bead_cleanup.md))
 6. Primary PCR products were purified and size selected using the Agencourt AMPure XP bead system (Beckman Coulter, USA) at 0.9x volume beads to product.

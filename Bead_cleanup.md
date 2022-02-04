@@ -5,10 +5,10 @@ SPRI beads are used to selectively bind DNA fragments that are greater than 100 
 
 ## AMPURE XP Bead Volume Calculations (example)
 
-|                    | Volumes for 18S (1.2x)|Volumes for COI (0.9x)|Volumes for 12S (0.9x)|
-|:------------------:|:---------------------:|:--------------------:|:--------------------:|
-|Volume of amplicons |65ul|65ul|40ul|
-|Volume of XP beads |78ul|58.5ul|36ul|
+|                    | Volumes for 18S (1.2x)|Volumes for COI (0.9x)|Volumes for 12S (0.9x)|Volumes for 16S (0.9x)|
+|:------------------:|:---------------------:|:--------------------:|:--------------------:|:--------------------:|
+|Volume of amplicons |65ul|65ul|40ul|65ul|
+|Volume of XP beads |78ul|58.5ul|36ul|58.5ul|
 
 ## Before Starting
 - First, fully resuspend the AMPure XP beads by **vortexing** (if no vortexer; invert the reagent bottle several times), remove 2.5 to 3.0 ml aliquot from bottle to small collection tube. 

@@ -7,15 +7,15 @@
 ##### November 2021
 
 ## ABSTRACT
-This protocol is aimed at amplifying the 16S rRNA hypervariable region 4-5 (16S V4-V5) in prokaryotes. The primers (515F & 926R) used in this protocol are based on the primer utilized in Fuhrman Lab (https://www.protocols.io/view/fuhrman-lab-515f-926r-16s-and-18s-rrna-gene-sequen-vb7e2rn).
+This protocol is aimed at amplifying the 16S rRNA hypervariable region 4-5 (16S V4-V5) in prokaryotes. The primers (515F & 926R) used in this protocol are based on McNichol et al. 2021, Parada et al. 2016, and the [Fuhrman Lab](https://www.protocols.io/view/fuhrman-lab-515f-926r-16s-and-18s-rrna-gene-sequen-vb7e2rn).
 
 This work was supported by NASA grant NNX14AP62A ‘National Marine Sanctuaries as Sentinel Sites for a Demonstration Marine Biodiversity Observation Network (MBON)’ funded under the National Ocean Partnership Program (NOPP RFP NOAA-NOS-IOOS-2014-2003803 in partnership between NOAA, BOEM, and NASA), and the U.S. Integrated Ocean Observing System (IOOS) Program Office.
 
 #### Citations
 1. Quince et al. (2011) Removing noise from pyrosequenced amplicons. BMC Bioinformatics 12: 38.
-2. Parada et al. (2016) Every base matters: assessing small subunit rRNA primers for marine microbiomes with mock communities, time series, and global field samples. Env. Microbiol. 18(5) 1403-1414. http://doi.org/10.1111/1462-2920.13023
+2. Parada et al. (2016) Every base matters: assessing small subunit rRNA primers for marine microbiomes with mock communities, time series, and global field samples. Env. Microbiol. 18(5) 1403-1414. [http://doi.org/10.1111/1462-2920.13023](http://doi.org/10.1111/1462-2920.13023)
 3. Needham & Fuhrman (2016) Pronounced daily succession of phytoplankton, archaea and bacteria following a spring bloom. Nat. Microbiol. 1: 16005.
-4. McNichol et al. (2021) Evaluating and Improving Small Subunit rRNA PCR Primer Coverage for Bacteria, Archaea, and Eukaryotes Using Metagenomes from Global Ocean Surveys. mSystems 6(3)  https://doi.org/10.1128/mSystems.00565-21
+4. McNichol et al. (2021) Evaluating and Improving Small Subunit rRNA PCR Primer Coverage for Bacteria, Archaea, and Eukaryotes Using Metagenomes from Global Ocean Surveys. mSystems 6(3)  [https://doi.org/10.1128/mSystems.00565-21](https://doi.org/10.1128/mSystems.00565-21)
 
 ### BEFORE STARTING
 Disinfect work surfaces with 10% bleach, followed by 70% ethanol, then RNase Away and pipets with RNase Away. UV pipets, molecular grade water, and tube racks for 20 minutes prior to starting protocol.

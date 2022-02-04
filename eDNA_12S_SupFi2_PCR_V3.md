@@ -16,7 +16,7 @@ This work was supported by NASA grant NNX14AP62A ‘National Marine Sanctuaries 
 #### Citations
 1. Miya M et al. 2015 MiFish, a set of universal PCR primers for metabarcoding environmental DNA from fishes: detection of more than 230 subtropical marine species. R.Soc.opensci. 2: 150088. [http://dx.doi.org/10.1098/rsos.150088](http://dx.doi.org/10.1098/rsos.150088)
 2. Kawato, M., Yoshida, T., Miya, M., Tsuchida, S., Nagano, Y., Nomura, M., Yabuki, A., Fujiwara, Y. and Fujikura, K., 2021. Optimization of environmental DNA extraction and amplification methods for metabarcoding of deep-sea fish. MethodsX, 8, p.101238. [https://doi.org/10.1016/j.mex.2021.101238](https://doi.org/10.1016/j.mex.2021.101238)
-3. [PLatinum SuperFi II PCR Master Mix User Guide](https://www.thermofisher.com/document-connect/document-connect.html?url=https%3A%2F%2Fassets.thermofisher.com%2FTFS-Assets%2FLSG%2Fmanuals%2FMAN0018860_Platinum_SuperFi_II_PCR_MM_UG.pdf)
+3. [Platinum SuperFi II PCR Master Mix User Guide](https://www.thermofisher.com/document-connect/document-connect.html?url=https%3A%2F%2Fassets.thermofisher.com%2FTFS-Assets%2FLSG%2Fmanuals%2FMAN0018860_Platinum_SuperFi_II_PCR_MM_UG.pdf)
 
 ### BEFORE STARTING
 Disinfect work surfaces with 10% bleach or RNase Away followed by a MilliQ / DI water rinse and 70% ethanol wipe. Clean pipet surfaces with RNase Away and ethanol wipe.

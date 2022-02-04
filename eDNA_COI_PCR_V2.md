@@ -61,7 +61,7 @@ PE2-BC-CS2
 
 
 _______________________________________________________________________
-### _The following steps are performed by MSU's RTSF Genomics Core_
+### _The following steps are performed by [MSU's RTSF Genomics Core](https://rtsf.natsci.msu.edu/genomics/)_
 ## Secondary PCR
 9. An aliquot of 20 μl from each purified primary PCR product was sent to RTSF Genomics Core at MSU for secondary PCR amplification with primers which targeted the CS1/CS2 ends of the primary PCR products and added dual indexed, Illumina compatible adapters with barcodes. 
 10.  Secondary PCR amplifications were carried out as single 15-μl reactions using:

@@ -82,7 +82,7 @@ _______________________________________________________________________
 
 
 ## Sequencing
-13. The pooled product for the genetic locus was loaded on a standard MiSeq v2 flow cell and sequenced in a 2x150bp paired end format using a v2 500-cycle MiSeq reagent cartridge.
+13. The pooled product for the genetic locus was loaded on a standard MiSeq v2 flow cell and sequenced in a 2x150bp paired end format using a v2 300-cycle MiSeq reagent cartridge.
 14. The MiSeq run was performed with a 10% PhiX spike added.
 15. Primers complementary to the Fluidigm CS1 & CS2 oligomers were added to appropriate wells of the reagent cartridge to server as sequencing and index read primers.
 16. Base calling was done by Illumina Real Time Analysis (RTA) v1.18.54 and output of RTA was demultiplexed and converted to FastQ format with Illumina Bcl2fastq v2.18.0

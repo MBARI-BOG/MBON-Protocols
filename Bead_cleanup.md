@@ -31,7 +31,7 @@ SPRI beads are used to selectively bind DNA fragments that are greater than 100 
 13. Keeping the plate/tube on the magnet, Dry the beads at room temperature, until all of the ethanol has evaporated ~  5 minutes
  - Depending on the magnets used and the ambient temperature, beads may dry quicker than 5 minutes. It is important to not over-dry the beads and product can be lost. If Cracks begin to form, immediately move on the re-suspension in Qiagen Buffer EB (Elution Buffer)
 14. Remove the plate/tube from the magnet
-15. Resuspend the beads in 52.5 μL of Qiagen Buffer EB (pH 8.5). Vortex to mix well (seal plate if vortexing), or pipette up and down at least 10 times
+15. Resuspend the beads in 42.5 μL of Qiagen Buffer EB (pH 8.5). Vortex to mix well (seal plate if vortexing), or pipette up and down at least 10 times
  - If a more concentrated product is desired, the volume of elution buffer can be reduced
 17. Incubate the plate/tube at room temperature for 5 min to elute DNA off the beads
 18. Place the plate/tube on a magnet to capture the beads. Incubate until the liquid is clear, ~5 mins

@@ -62,8 +62,6 @@ Note: Be sure to label your plates along the plate skirt.
 
 4. Incubate at 56°C overnight or until the samples are completely lysed. Place a weight on top of the caps during the incubation. Mix occasionally during incubation to disperse the sample, or place on a rocking platform.
 
-	Lysis time varies depending on the type, age, and amount of tail or tissue being processed. Lysis is usually complete in 1–3 h or, for rodent tails, 6–8 h, but optimal results will be achieved after overnight lysis.
-
 	After incubation the lysate may appear viscous, but should not be gelatinous as it may clog the DNeasy 96 membrane. If the lysate appears very gelatinous, see the “Troubleshooting Guide”, page 47, for recommendations.
 
 	**Note:** It is important to make sure there is a weight or something holding the lids of the caps down as the head builds pressure in the collection microtubes and can lift the caps off of the tubes, potentially releasing DNA and cross-contaminating samples.
@@ -122,7 +120,7 @@ Note: Be sure to label your plates along the plate skirt.
 
 15. Place each DNeasy 96 plate in the correct orientation on a new rack of Elution Microtubes RS (provided).
 
-16. To elute the DNA, add 100 μl Buffer AE to each sample, and seal the DNeasy 96 plates with new AirPore Tape Sheets (provided). Incubate for 1 min at room temperature (15–25°C). Centrifuge for 3 min at 6000 rpm.
+16. To elute the DNA, add 100 μl Buffer AE to each sample, and seal the DNeasy 96 plates with new AirPore Tape Sheets (provided). Incubate for 1 min at room temperature (15–25°C). Centrifuge for 3 min at 4700 rpm.
 
 17. After DNA is eluted, transfer 50 μl into a new skirted 96-well plate (what we have been using for bead clean-ups) and seal with the heat sealer, and label plate for archiving (plate_name  archive DNA  date).
 

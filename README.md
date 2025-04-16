@@ -21,7 +21,7 @@ BeBOP formatted detailed protocols with DOIs below:
 - 
 
 ### PCR Protocols
-- [Environmental DNA (eDNA) 18S metabarcoding Illumina MiSeq NGS PCR Protocol V.3](https://github.com/MBARI-BOG/MBARI-BOG-18Sv9-metabarcoding-pcr-protocol/blob/main/MBARI-BOG-18Sv9-metabarcoding-pcr-protocol.md)
+- [Environmental DNA (eDNA) 18S metabarcoding PCR Protocol V.3](https://github.com/MBARI-BOG/MBARI-BOG-18Sv9-metabarcoding-pcr-protocol/blob/main/MBARI-BOG-18Sv9-metabarcoding-pcr-protocol.md)
 - [Environmental DNA (eDNA) COI metabarcoding PCR Protocol V.2](https://github.com/MBARI-BOG/MBARI-BOG-COI-metabarcoding-pcr-protocol/blob/main/MBARI-BOG-COI-metabarcoding-pcr-protocol.md)
 
 ### Library Prep and Sequencing Protocols

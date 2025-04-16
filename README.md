@@ -36,7 +36,7 @@ BeBOP formatted detailed protocols with DOIs below:
 ### Extraction Protocols
 
 ### PCR Protocols
--[Environmental DNA (eDNA) 12S Metabarcoding PCR Protocol (Touchdown) V.2](https://github.com/MBARI-BOG/MBARI-BOG-12S-touchdown-metabarcoding-pcr-protocol)
+- [Environmental DNA (eDNA) 12S Metabarcoding PCR Protocol (Touchdown) V.2](https://github.com/MBARI-BOG/MBARI-BOG-12S-touchdown-metabarcoding-pcr-protocol)
 
 ### Library Prep and Sequencing Protocols
 

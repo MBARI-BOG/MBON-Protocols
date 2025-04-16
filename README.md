@@ -27,7 +27,9 @@ BeBOP formatted detailed protocols with DOIs below:
 
 ### Library Prep and Sequencing Protocols
 
+## Protocols Tested
 
+### PCR Protocols
 
 ## Previously Used Protocols
 

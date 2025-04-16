@@ -1,6 +1,9 @@
+
+![MBARI_logo+type_small](https://github.com/user-attachments/assets/f7a9e1ee-ae95-4de6-9994-e10a59999c9e)
+
 # Biological Oceanography Group (BOG) Protocol Collection
+
 #### Member of Marine Biodiversity Observation Network (MBON) - CeNCOOS MBON
-#### Monterey Bay Aquarium Research Institute
 
 > **Website describing protocols**: https://mbari-bog.github.io/MBON-Protocols/
 

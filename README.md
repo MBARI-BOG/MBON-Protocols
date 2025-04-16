@@ -2,7 +2,11 @@
 #### Member of Marine Biodiversity Observation Network (MBON) - CeNCOOS MBON
 #### Monterey Bay Aquarium Research Institute
 
-## Authors
+> Website describing protocols in use: https://mbari-bog.github.io/MBON-Protocols/
+
+BeBOP formatted detailed protocols with DOIs below:
+
+### Authors
 - [Jacoby Baker](https://github.com/JacobyBaker)
 - Kobun Truelove
 - [Katie Pitz](https://github.com/kpitz)

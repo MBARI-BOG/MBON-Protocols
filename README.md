@@ -7,7 +7,7 @@
 
 > **Website describing protocols**: https://mbari-bog.github.io/MBON-Protocols/
 
-BeBOP formatted detailed protocols with DOIs below:
+[BeBOP](https://github.com/BeBOP-OBON) formatted detailed protocols with DOIs below:
 
 ### Authors
 - [Jacoby Baker](https://github.com/JacobyBaker)

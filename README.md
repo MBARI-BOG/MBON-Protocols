@@ -11,7 +11,7 @@
 
 ### Authors
 - [Jacoby Baker](https://github.com/JacobyBaker)
-- Kobun Truelove
+- [Kobun Truelove](https://github.com/natetruelove)
 - [Katie Pitz](https://github.com/kpitz)
 - Francisco Chavez
 

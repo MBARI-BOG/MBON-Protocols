@@ -1,6 +1,6 @@
 [Back to home](index.md)
 
-# MBON Water Sampling
+# MBARI BOG MBON Water Sampling
 
 ## Sampling methods
 - [Water Sampling Protocol](WaterFilteringProtocol.md)

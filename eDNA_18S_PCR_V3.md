@@ -32,7 +32,8 @@ Disinfect work surfaces with 10% bleach, followed by 70% ethanol, then RNase Awa
  - 18S Forward PCR sequence (Euk1391F): 
    > **ACACTGACGACATGGTTCTACA**GTACACACCGCCCGTC
  - 18S Reverse PCR sequence (EukBr): 
-   > **TACGGAGCAGAGACTTGGTCT**TGATCCTTCTGCAGGTTCACCTAC`
+   > **TACGGTAGCAGAGACTTGGTCT**TGATCCTTCTGCAGGTTCACCTAC`
+
 5. 18S thermal cycling parameters - Thse parameters use a normal ramp speed::
   ```
   95° C for 10 minutes

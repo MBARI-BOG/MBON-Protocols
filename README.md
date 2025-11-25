@@ -18,6 +18,7 @@
 ## Protocols Currently in Use
 
 ### Sample Collection Protocols
+- [Protocol for environmental DNA sampling using a peristaltic pump with preservation in DNA/RNA Shield solution](https://github.com/MBARI-BOG/MBARI-BOG-CTD-peristalticpump-DNARNAshield-sampling-protocol/blob/main/MBARI-BOG-CTD-peristalticpump-DNARNAshield-sampling-protocol.md)
 
 ### Extraction Protocols
 - [Environmental DNA (eDNA) extraction using Qiagen DNeasy 96 Blood and Tissue Kit V.3](https://github.com/MBARI-BOG/MBARI-BOG-QiagenDNeasy96-BT-DNA-Extraction-Protocol/blob/main/QiagenDNeasy96-DNA-Extraction-Protocol.md)
@@ -29,6 +30,7 @@
 - [Environmental DNA (eDNA) 12S Metabarcoding PCR Protocol (with Platinum SuperFi II Taq) V.3](https://github.com/MBARI-BOG/MBARI-BOG-12S-superfiII-metabarcoding-pcr-protocol/blob/main/MBARI-BOG-12S-superfiII-metabarcoding-pcr-protocol.md)
 
 ### Secondary PCR, Size selection, Library Prep and Sequencing Protocols
+- [Michigan State University (MSU) Illumina MiSeq sequencing with size selection protocol](https://github.com/MBARI-BOG/MBARI-BOG-MSU-MiSeq-sizeselection-sequencing-protocol/blob/main/MBARI-BOG-MSU-MiSeq-size-selection-sequencing-protocol.md)
 
 ## Protocols Tested
 

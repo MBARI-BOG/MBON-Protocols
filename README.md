@@ -18,7 +18,7 @@
 ## Protocols Currently in Use
 
 ### Sample Collection Protocols
-- [Protocol for environmental DNA sampling using a peristaltic pump with preservation in DNA/RNA Shield solution](https://github.com/MBARI-BOG/MBARI-BOG-CTD-peristalticpump-DNARNAshield-sampling-protocol/blob/main/MBARI-BOG-CTD-peristalticpump-DNARNAshield-sampling-protocol.md)
+- [eDNA sampling using a peristaltic pump with preservation in DNA/RNA Shield solution](https://github.com/MBARI-BOG/MBARI-BOG-CTD-peristalticpump-DNARNAshield-sampling-protocol/blob/main/MBARI-BOG-CTD-peristalticpump-DNARNAshield-sampling-protocol.md)
 
 ### Extraction Protocols
 - [Environmental DNA (eDNA) extraction using Qiagen DNeasy 96 Blood and Tissue Kit V.3](https://github.com/MBARI-BOG/MBARI-BOG-QiagenDNeasy96-BT-DNA-Extraction-Protocol/blob/main/QiagenDNeasy96-DNA-Extraction-Protocol.md)

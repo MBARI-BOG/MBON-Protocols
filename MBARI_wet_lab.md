@@ -6,7 +6,7 @@ Here you will find the protocols and resources that we use in the wet lab to pro
 ______________________________________________________
 ## Currently Used Protocols
 ### DNA Extractions
-- [Environmental DNA (eDNA) extraction using ZymoBIOMICS™ 96 MagBead DNA Kit on the KingFisher V.4](MBARI_BOG_kingfisher_extract_dna.md)
+- [Environmental DNA (eDNA) extraction using ZymoBIOMICS™ 96 MagBead DNA Kit on the KingFisher V.4](https://github.com/MBARI-BOG/MBARI-BOG-Kingfisher-dna-extract-protocol/blob/3c7fb92abd2b53bb48a581463112a38952c99f2d/MBARI_BOG_kingfisher_extract_dna.md)
 
 
 

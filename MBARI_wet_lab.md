@@ -6,7 +6,7 @@ Here you will find the protocols and resources that we use in the wet lab to pro
 ______________________________________________________
 ## Currently Used Protocols
 ### DNA Extractions
-- [Environmental DNA (eDNA) extraction using Qiagen DNeasy 96 Blood and Tissue Kit V.3](eDNA_extraction_V3.md)
+- [Environmental DNA (eDNA) extraction using ZymoBIOMICS™ 96 MagBead DNA Kit on the KingFisher V.4](MBARI_BOG_kingfisher_extract_dna.md)
 
 
 
@@ -26,6 +26,7 @@ ____________________________________________________
 ### DNA Extractions
 - [Environmental DNA (eDNA) extraction using Qiagen DNeasy blood and tissue kit V.1](eDNA_extraction_V1.md)
 - [Environmental DNA (eDNA) extraction using Qiagen DNeasy Blood and Tissue Kit V.2](eDNA_extraction_V2.md)
+- [Environmental DNA (eDNA) extraction using Qiagen DNeasy 96 Blood and Tissue Kit V.3](eDNA_extraction_V3.md)
 - [Environmental DNA (eDNA) extraction using Qiagen DNeasy 96 Blood and Tissue Kit V.3](eDNA_extraction_V3.md)
 
 ### PCR
